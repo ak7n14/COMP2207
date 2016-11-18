@@ -1,0 +1,1840 @@
+PING google.com (216.58.201.14): 56 data bytes
+64 bytes from 216.58.201.14: icmp_seq=0 ttl=54 time=23.074 ms
+64 bytes from 216.58.201.14: icmp_seq=1 ttl=54 time=19.659 ms
+64 bytes from 216.58.201.14: icmp_seq=2 ttl=54 time=28.336 ms
+64 bytes from 216.58.201.14: icmp_seq=3 ttl=54 time=21.784 ms
+64 bytes from 216.58.201.14: icmp_seq=4 ttl=54 time=19.219 ms
+64 bytes from 216.58.201.14: icmp_seq=5 ttl=54 time=30.011 ms
+64 bytes from 216.58.201.14: icmp_seq=6 ttl=54 time=22.352 ms
+64 bytes from 216.58.201.14: icmp_seq=7 ttl=54 time=22.999 ms
+64 bytes from 216.58.201.14: icmp_seq=8 ttl=54 time=27.980 ms
+64 bytes from 216.58.201.14: icmp_seq=9 ttl=54 time=23.079 ms
+
+--- google.com ping statistics ---
+10 packets transmitted, 10 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 19.219/23.849/30.011/3.501 ms
+
+====================
+
+PING youtube.com (216.58.204.14): 56 data bytes
+64 bytes from 216.58.204.14: icmp_seq=0 ttl=52 time=25.050 ms
+64 bytes from 216.58.204.14: icmp_seq=1 ttl=52 time=24.629 ms
+64 bytes from 216.58.204.14: icmp_seq=2 ttl=52 time=25.719 ms
+64 bytes from 216.58.204.14: icmp_seq=3 ttl=52 time=29.249 ms
+64 bytes from 216.58.204.14: icmp_seq=4 ttl=52 time=23.406 ms
+64 bytes from 216.58.204.14: icmp_seq=5 ttl=52 time=59.504 ms
+64 bytes from 216.58.204.14: icmp_seq=6 ttl=52 time=26.461 ms
+64 bytes from 216.58.204.14: icmp_seq=7 ttl=52 time=75.955 ms
+64 bytes from 216.58.204.14: icmp_seq=8 ttl=52 time=25.776 ms
+64 bytes from 216.58.204.14: icmp_seq=9 ttl=52 time=44.653 ms
+
+--- youtube.com ping statistics ---
+10 packets transmitted, 10 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 23.406/36.040/75.955/17.258 ms
+
+====================
+
+PING facebook.com (31.13.71.36): 56 data bytes
+64 bytes from 31.13.71.36: icmp_seq=0 ttl=76 time=121.713 ms
+64 bytes from 31.13.71.36: icmp_seq=1 ttl=76 time=119.742 ms
+64 bytes from 31.13.71.36: icmp_seq=2 ttl=76 time=122.248 ms
+64 bytes from 31.13.71.36: icmp_seq=3 ttl=76 time=119.675 ms
+64 bytes from 31.13.71.36: icmp_seq=4 ttl=76 time=125.442 ms
+64 bytes from 31.13.71.36: icmp_seq=5 ttl=76 time=118.052 ms
+64 bytes from 31.13.71.36: icmp_seq=6 ttl=76 time=118.054 ms
+64 bytes from 31.13.71.36: icmp_seq=7 ttl=76 time=118.451 ms
+64 bytes from 31.13.71.36: icmp_seq=8 ttl=76 time=119.634 ms
+64 bytes from 31.13.71.36: icmp_seq=9 ttl=76 time=122.620 ms
+
+--- facebook.com ping statistics ---
+10 packets transmitted, 10 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 118.052/120.563/125.442/2.271 ms
+
+====================
+
+PING baidu.com (123.125.114.144): 56 data bytes
+64 bytes from 123.125.114.144: icmp_seq=0 ttl=48 time=377.290 ms
+64 bytes from 123.125.114.144: icmp_seq=1 ttl=48 time=215.847 ms
+64 bytes from 123.125.114.144: icmp_seq=2 ttl=48 time=210.782 ms
+64 bytes from 123.125.114.144: icmp_seq=3 ttl=48 time=206.899 ms
+64 bytes from 123.125.114.144: icmp_seq=4 ttl=48 time=216.613 ms
+64 bytes from 123.125.114.144: icmp_seq=5 ttl=48 time=210.972 ms
+64 bytes from 123.125.114.144: icmp_seq=6 ttl=48 time=393.309 ms
+64 bytes from 123.125.114.144: icmp_seq=7 ttl=48 time=205.512 ms
+64 bytes from 123.125.114.144: icmp_seq=8 ttl=48 time=334.179 ms
+64 bytes from 123.125.114.144: icmp_seq=9 ttl=48 time=253.583 ms
+
+--- baidu.com ping statistics ---
+10 packets transmitted, 10 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 205.512/262.499/393.309/71.733 ms
+
+====================
+
+PING wikipedia.org (91.198.174.192): 56 data bytes
+64 bytes from 91.198.174.192: icmp_seq=0 ttl=50 time=34.006 ms
+64 bytes from 91.198.174.192: icmp_seq=1 ttl=50 time=34.030 ms
+64 bytes from 91.198.174.192: icmp_seq=2 ttl=50 time=40.731 ms
+64 bytes from 91.198.174.192: icmp_seq=3 ttl=50 time=33.530 ms
+64 bytes from 91.198.174.192: icmp_seq=4 ttl=50 time=31.977 ms
+64 bytes from 91.198.174.192: icmp_seq=5 ttl=50 time=34.837 ms
+64 bytes from 91.198.174.192: icmp_seq=6 ttl=50 time=35.513 ms
+64 bytes from 91.198.174.192: icmp_seq=7 ttl=50 time=38.543 ms
+64 bytes from 91.198.174.192: icmp_seq=8 ttl=50 time=31.545 ms
+64 bytes from 91.198.174.192: icmp_seq=9 ttl=50 time=31.202 ms
+
+--- wikipedia.org ping statistics ---
+10 packets transmitted, 10 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 31.202/34.591/40.731/2.891 ms
+
+====================
+
+PING yahoo.com (206.190.36.45): 56 data bytes
+64 bytes from 206.190.36.45: icmp_seq=0 ttl=44 time=190.493 ms
+64 bytes from 206.190.36.45: icmp_seq=1 ttl=44 time=184.191 ms
+64 bytes from 206.190.36.45: icmp_seq=2 ttl=44 time=184.418 ms
+64 bytes from 206.190.36.45: icmp_seq=3 ttl=44 time=191.104 ms
+64 bytes from 206.190.36.45: icmp_seq=4 ttl=44 time=187.281 ms
+64 bytes from 206.190.36.45: icmp_seq=5 ttl=44 time=206.522 ms
+64 bytes from 206.190.36.45: icmp_seq=6 ttl=44 time=180.162 ms
+64 bytes from 206.190.36.45: icmp_seq=7 ttl=44 time=182.851 ms
+64 bytes from 206.190.36.45: icmp_seq=8 ttl=44 time=185.247 ms
+64 bytes from 206.190.36.45: icmp_seq=9 ttl=44 time=180.296 ms
+
+--- yahoo.com ping statistics ---
+10 packets transmitted, 10 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 180.162/187.257/206.522/7.322 ms
+
+====================
+
+PING google.co.in (216.58.212.67): 56 data bytes
+64 bytes from 216.58.212.67: icmp_seq=0 ttl=52 time=22.175 ms
+64 bytes from 216.58.212.67: icmp_seq=1 ttl=52 time=22.890 ms
+64 bytes from 216.58.212.67: icmp_seq=2 ttl=52 time=25.759 ms
+64 bytes from 216.58.212.67: icmp_seq=3 ttl=52 time=22.306 ms
+64 bytes from 216.58.212.67: icmp_seq=4 ttl=52 time=51.267 ms
+64 bytes from 216.58.212.67: icmp_seq=5 ttl=52 time=24.093 ms
+64 bytes from 216.58.212.67: icmp_seq=6 ttl=52 time=102.121 ms
+64 bytes from 216.58.212.67: icmp_seq=7 ttl=52 time=25.285 ms
+64 bytes from 216.58.212.67: icmp_seq=8 ttl=52 time=25.222 ms
+64 bytes from 216.58.212.67: icmp_seq=9 ttl=52 time=23.682 ms
+
+--- google.co.in ping statistics ---
+10 packets transmitted, 10 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 22.175/34.480/102.121/24.004 ms
+
+====================
+
+PING twitter.com (104.244.42.129): 56 data bytes
+64 bytes from 104.244.42.129: icmp_seq=0 ttl=53 time=22.128 ms
+64 bytes from 104.244.42.129: icmp_seq=1 ttl=53 time=22.471 ms
+64 bytes from 104.244.42.129: icmp_seq=2 ttl=53 time=21.257 ms
+64 bytes from 104.244.42.129: icmp_seq=3 ttl=53 time=27.276 ms
+64 bytes from 104.244.42.129: icmp_seq=4 ttl=53 time=21.485 ms
+64 bytes from 104.244.42.129: icmp_seq=5 ttl=53 time=21.331 ms
+64 bytes from 104.244.42.129: icmp_seq=6 ttl=53 time=23.997 ms
+64 bytes from 104.244.42.129: icmp_seq=7 ttl=53 time=23.345 ms
+64 bytes from 104.244.42.129: icmp_seq=8 ttl=53 time=18.379 ms
+64 bytes from 104.244.42.129: icmp_seq=9 ttl=53 time=24.256 ms
+
+--- twitter.com ping statistics ---
+10 packets transmitted, 10 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 18.379/22.592/27.276/2.232 ms
+
+====================
+
+PING amazon.com (54.239.26.128): 56 data bytes
+Request timeout for icmp_seq 0
+Request timeout for icmp_seq 1
+Request timeout for icmp_seq 2
+Request timeout for icmp_seq 3
+Request timeout for icmp_seq 4
+Request timeout for icmp_seq 5
+Request timeout for icmp_seq 6
+Request timeout for icmp_seq 7
+Request timeout for icmp_seq 8
+
+--- amazon.com ping statistics ---
+10 packets transmitted, 0 packets received, 100.0% packet loss
+
+====================
+
+PING qq.com (61.135.157.156): 56 data bytes
+64 bytes from 61.135.157.156: icmp_seq=0 ttl=45 time=197.299 ms
+64 bytes from 61.135.157.156: icmp_seq=1 ttl=45 time=200.470 ms
+64 bytes from 61.135.157.156: icmp_seq=2 ttl=45 time=198.281 ms
+64 bytes from 61.135.157.156: icmp_seq=3 ttl=45 time=196.590 ms
+64 bytes from 61.135.157.156: icmp_seq=4 ttl=45 time=199.177 ms
+64 bytes from 61.135.157.156: icmp_seq=5 ttl=45 time=197.717 ms
+64 bytes from 61.135.157.156: icmp_seq=6 ttl=45 time=193.870 ms
+64 bytes from 61.135.157.156: icmp_seq=7 ttl=45 time=193.303 ms
+64 bytes from 61.135.157.156: icmp_seq=8 ttl=45 time=201.036 ms
+64 bytes from 61.135.157.156: icmp_seq=9 ttl=45 time=196.218 ms
+
+--- qq.com ping statistics ---
+10 packets transmitted, 10 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 193.303/197.396/201.036/2.408 ms
+
+====================
+
+PING google.co.jp (216.58.213.67): 56 data bytes
+64 bytes from 216.58.213.67: icmp_seq=0 ttl=54 time=17.337 ms
+64 bytes from 216.58.213.67: icmp_seq=1 ttl=54 time=20.000 ms
+64 bytes from 216.58.213.67: icmp_seq=2 ttl=54 time=18.738 ms
+64 bytes from 216.58.213.67: icmp_seq=3 ttl=54 time=20.508 ms
+64 bytes from 216.58.213.67: icmp_seq=4 ttl=54 time=20.757 ms
+64 bytes from 216.58.213.67: icmp_seq=5 ttl=54 time=25.700 ms
+64 bytes from 216.58.213.67: icmp_seq=6 ttl=54 time=26.180 ms
+64 bytes from 216.58.213.67: icmp_seq=7 ttl=54 time=19.162 ms
+64 bytes from 216.58.213.67: icmp_seq=8 ttl=54 time=18.817 ms
+64 bytes from 216.58.213.67: icmp_seq=9 ttl=54 time=18.510 ms
+
+--- google.co.jp ping statistics ---
+10 packets transmitted, 10 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 17.337/20.571/26.180/2.851 ms
+
+====================
+
+PING live.com (65.55.206.154): 56 data bytes
+Request timeout for icmp_seq 0
+Request timeout for icmp_seq 1
+Request timeout for icmp_seq 2
+Request timeout for icmp_seq 3
+Request timeout for icmp_seq 4
+Request timeout for icmp_seq 5
+Request timeout for icmp_seq 6
+Request timeout for icmp_seq 7
+Request timeout for icmp_seq 8
+
+--- live.com ping statistics ---
+10 packets transmitted, 0 packets received, 100.0% packet loss
+
+====================
+
+PING taobao.com (140.205.94.189): 56 data bytes
+64 bytes from 140.205.94.189: icmp_seq=0 ttl=22 time=284.806 ms
+64 bytes from 140.205.94.189: icmp_seq=1 ttl=22 time=289.711 ms
+64 bytes from 140.205.94.189: icmp_seq=2 ttl=22 time=284.616 ms
+64 bytes from 140.205.94.189: icmp_seq=3 ttl=22 time=286.877 ms
+64 bytes from 140.205.94.189: icmp_seq=4 ttl=22 time=286.183 ms
+64 bytes from 140.205.94.189: icmp_seq=5 ttl=22 time=286.594 ms
+64 bytes from 140.205.94.189: icmp_seq=6 ttl=22 time=383.473 ms
+64 bytes from 140.205.94.189: icmp_seq=7 ttl=22 time=285.297 ms
+64 bytes from 140.205.94.189: icmp_seq=8 ttl=22 time=316.716 ms
+64 bytes from 140.205.94.189: icmp_seq=9 ttl=22 time=338.946 ms
+
+--- taobao.com ping statistics ---
+10 packets transmitted, 10 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 284.616/304.322/383.473/31.479 ms
+
+====================
+
+PING vk.com (95.213.11.130): 56 data bytes
+64 bytes from 95.213.11.130: icmp_seq=0 ttl=51 time=60.177 ms
+64 bytes from 95.213.11.130: icmp_seq=1 ttl=51 time=58.728 ms
+64 bytes from 95.213.11.130: icmp_seq=2 ttl=51 time=56.620 ms
+64 bytes from 95.213.11.130: icmp_seq=3 ttl=51 time=58.583 ms
+64 bytes from 95.213.11.130: icmp_seq=4 ttl=51 time=57.628 ms
+64 bytes from 95.213.11.130: icmp_seq=5 ttl=51 time=59.203 ms
+64 bytes from 95.213.11.130: icmp_seq=6 ttl=51 time=58.852 ms
+64 bytes from 95.213.11.130: icmp_seq=7 ttl=51 time=60.405 ms
+64 bytes from 95.213.11.130: icmp_seq=8 ttl=51 time=64.243 ms
+64 bytes from 95.213.11.130: icmp_seq=9 ttl=51 time=65.724 ms
+
+--- vk.com ping statistics ---
+10 packets transmitted, 10 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 56.620/60.016/65.724/2.713 ms
+
+====================
+
+PING instagram.com (52.22.159.222): 56 data bytes
+64 bytes from 52.22.159.222: icmp_seq=0 ttl=41 time=124.559 ms
+64 bytes from 52.22.159.222: icmp_seq=1 ttl=41 time=116.141 ms
+64 bytes from 52.22.159.222: icmp_seq=2 ttl=41 time=134.615 ms
+64 bytes from 52.22.159.222: icmp_seq=3 ttl=41 time=119.344 ms
+64 bytes from 52.22.159.222: icmp_seq=4 ttl=41 time=120.288 ms
+64 bytes from 52.22.159.222: icmp_seq=5 ttl=41 time=120.996 ms
+64 bytes from 52.22.159.222: icmp_seq=6 ttl=41 time=120.809 ms
+64 bytes from 52.22.159.222: icmp_seq=7 ttl=41 time=131.833 ms
+64 bytes from 52.22.159.222: icmp_seq=8 ttl=41 time=119.003 ms
+64 bytes from 52.22.159.222: icmp_seq=9 ttl=41 time=123.021 ms
+
+--- instagram.com ping statistics ---
+10 packets transmitted, 10 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 116.141/123.061/134.615/5.549 ms
+
+====================
+
+PING linkedin.com (108.174.10.10): 56 data bytes
+64 bytes from 108.174.10.10: icmp_seq=0 ttl=48 time=113.289 ms
+64 bytes from 108.174.10.10: icmp_seq=1 ttl=48 time=131.369 ms
+64 bytes from 108.174.10.10: icmp_seq=2 ttl=48 time=118.456 ms
+64 bytes from 108.174.10.10: icmp_seq=3 ttl=48 time=121.420 ms
+64 bytes from 108.174.10.10: icmp_seq=4 ttl=48 time=111.793 ms
+64 bytes from 108.174.10.10: icmp_seq=5 ttl=48 time=111.632 ms
+64 bytes from 108.174.10.10: icmp_seq=6 ttl=48 time=118.386 ms
+64 bytes from 108.174.10.10: icmp_seq=7 ttl=48 time=115.348 ms
+64 bytes from 108.174.10.10: icmp_seq=8 ttl=48 time=112.388 ms
+64 bytes from 108.174.10.10: icmp_seq=9 ttl=48 time=125.274 ms
+
+--- linkedin.com ping statistics ---
+10 packets transmitted, 10 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 111.632/117.936/131.369/6.192 ms
+
+====================
+
+PING hao123.com (180.149.132.19): 56 data bytes
+64 bytes from 180.149.132.19: icmp_seq=0 ttl=42 time=356.651 ms
+64 bytes from 180.149.132.19: icmp_seq=1 ttl=42 time=414.323 ms
+64 bytes from 180.149.132.19: icmp_seq=2 ttl=42 time=436.742 ms
+64 bytes from 180.149.132.19: icmp_seq=3 ttl=42 time=355.879 ms
+64 bytes from 180.149.132.19: icmp_seq=4 ttl=42 time=420.191 ms
+64 bytes from 180.149.132.19: icmp_seq=5 ttl=42 time=359.026 ms
+64 bytes from 180.149.132.19: icmp_seq=6 ttl=42 time=390.041 ms
+64 bytes from 180.149.132.19: icmp_seq=7 ttl=42 time=359.484 ms
+64 bytes from 180.149.132.19: icmp_seq=8 ttl=42 time=354.268 ms
+64 bytes from 180.149.132.19: icmp_seq=9 ttl=42 time=353.267 ms
+
+--- hao123.com ping statistics ---
+10 packets transmitted, 10 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 353.267/379.987/436.742/30.787 ms
+
+====================
+
+PING sohu.com (220.181.90.20): 56 data bytes
+64 bytes from 220.181.90.20: icmp_seq=0 ttl=44 time=348.898 ms
+64 bytes from 220.181.90.20: icmp_seq=1 ttl=44 time=339.053 ms
+64 bytes from 220.181.90.20: icmp_seq=2 ttl=44 time=341.031 ms
+64 bytes from 220.181.90.20: icmp_seq=3 ttl=44 time=342.033 ms
+64 bytes from 220.181.90.20: icmp_seq=4 ttl=44 time=435.087 ms
+64 bytes from 220.181.90.20: icmp_seq=5 ttl=44 time=453.883 ms
+64 bytes from 220.181.90.20: icmp_seq=6 ttl=44 time=371.328 ms
+64 bytes from 220.181.90.20: icmp_seq=7 ttl=44 time=394.959 ms
+64 bytes from 220.181.90.20: icmp_seq=8 ttl=44 time=417.869 ms
+64 bytes from 220.181.90.20: icmp_seq=9 ttl=44 time=438.692 ms
+
+--- sohu.com ping statistics ---
+10 packets transmitted, 10 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 339.053/388.283/453.883/43.115 ms
+
+====================
+
+PING sina.com.cn (202.108.33.60): 56 data bytes
+Request timeout for icmp_seq 0
+Request timeout for icmp_seq 1
+Request timeout for icmp_seq 2
+Request timeout for icmp_seq 3
+Request timeout for icmp_seq 4
+Request timeout for icmp_seq 5
+Request timeout for icmp_seq 6
+Request timeout for icmp_seq 7
+Request timeout for icmp_seq 8
+
+--- sina.com.cn ping statistics ---
+10 packets transmitted, 0 packets received, 100.0% packet loss
+
+====================
+
+PING 360.cn (125.88.190.56): 56 data bytes
+64 bytes from 125.88.190.56: icmp_seq=0 ttl=43 time=428.486 ms
+64 bytes from 125.88.190.56: icmp_seq=1 ttl=43 time=345.372 ms
+64 bytes from 125.88.190.56: icmp_seq=2 ttl=43 time=364.480 ms
+64 bytes from 125.88.190.56: icmp_seq=3 ttl=43 time=344.231 ms
+64 bytes from 125.88.190.56: icmp_seq=4 ttl=43 time=337.700 ms
+64 bytes from 125.88.190.56: icmp_seq=5 ttl=43 time=427.614 ms
+64 bytes from 125.88.190.56: icmp_seq=6 ttl=43 time=445.910 ms
+64 bytes from 125.88.190.56: icmp_seq=7 ttl=43 time=362.792 ms
+64 bytes from 125.88.190.56: icmp_seq=8 ttl=43 time=336.780 ms
+64 bytes from 125.88.190.56: icmp_seq=9 ttl=43 time=401.429 ms
+
+--- 360.cn ping statistics ---
+10 packets transmitted, 10 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 336.780/379.479/445.910/40.114 ms
+
+====================
+
+PING weibo.com (114.134.80.162): 56 data bytes
+64 bytes from 114.134.80.162: icmp_seq=0 ttl=49 time=231.831 ms
+64 bytes from 114.134.80.162: icmp_seq=1 ttl=49 time=224.887 ms
+64 bytes from 114.134.80.162: icmp_seq=2 ttl=49 time=229.872 ms
+64 bytes from 114.134.80.162: icmp_seq=3 ttl=49 time=267.506 ms
+64 bytes from 114.134.80.162: icmp_seq=4 ttl=49 time=228.766 ms
+64 bytes from 114.134.80.162: icmp_seq=5 ttl=49 time=309.782 ms
+64 bytes from 114.134.80.162: icmp_seq=6 ttl=49 time=320.776 ms
+64 bytes from 114.134.80.162: icmp_seq=7 ttl=49 time=225.643 ms
+64 bytes from 114.134.80.162: icmp_seq=8 ttl=49 time=231.417 ms
+64 bytes from 114.134.80.162: icmp_seq=9 ttl=49 time=288.690 ms
+
+--- weibo.com ping statistics ---
+10 packets transmitted, 10 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 224.887/255.917/320.776/35.766 ms
+
+====================
+
+PING google.de (216.58.204.3): 56 data bytes
+64 bytes from 216.58.204.3: icmp_seq=0 ttl=51 time=26.734 ms
+64 bytes from 216.58.204.3: icmp_seq=1 ttl=51 time=24.300 ms
+64 bytes from 216.58.204.3: icmp_seq=2 ttl=51 time=22.685 ms
+64 bytes from 216.58.204.3: icmp_seq=3 ttl=51 time=22.104 ms
+64 bytes from 216.58.204.3: icmp_seq=4 ttl=51 time=33.791 ms
+64 bytes from 216.58.204.3: icmp_seq=5 ttl=51 time=31.892 ms
+64 bytes from 216.58.204.3: icmp_seq=6 ttl=51 time=27.862 ms
+64 bytes from 216.58.204.3: icmp_seq=7 ttl=51 time=24.853 ms
+64 bytes from 216.58.204.3: icmp_seq=8 ttl=51 time=21.688 ms
+64 bytes from 216.58.204.3: icmp_seq=9 ttl=51 time=30.097 ms
+
+--- google.de ping statistics ---
+10 packets transmitted, 10 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 21.688/26.601/33.791/4.020 ms
+
+====================
+
+PING tmall.com (140.205.130.99): 56 data bytes
+64 bytes from 140.205.130.99: icmp_seq=0 ttl=19 time=297.416 ms
+64 bytes from 140.205.130.99: icmp_seq=1 ttl=19 time=287.877 ms
+64 bytes from 140.205.130.99: icmp_seq=2 ttl=19 time=296.789 ms
+64 bytes from 140.205.130.99: icmp_seq=3 ttl=19 time=348.387 ms
+64 bytes from 140.205.130.99: icmp_seq=4 ttl=19 time=400.025 ms
+64 bytes from 140.205.130.99: icmp_seq=5 ttl=19 time=316.393 ms
+64 bytes from 140.205.130.99: icmp_seq=6 ttl=19 time=335.249 ms
+64 bytes from 140.205.130.99: icmp_seq=7 ttl=19 time=353.608 ms
+64 bytes from 140.205.130.99: icmp_seq=8 ttl=19 time=372.887 ms
+64 bytes from 140.205.130.99: icmp_seq=9 ttl=19 time=391.937 ms
+
+--- tmall.com ping statistics ---
+10 packets transmitted, 10 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 287.877/340.057/400.025/38.229 ms
+
+====================
+
+PING reddit.com (151.101.129.140): 56 data bytes
+64 bytes from 151.101.129.140: icmp_seq=0 ttl=52 time=24.089 ms
+64 bytes from 151.101.129.140: icmp_seq=1 ttl=52 time=18.690 ms
+64 bytes from 151.101.129.140: icmp_seq=2 ttl=52 time=19.729 ms
+64 bytes from 151.101.129.140: icmp_seq=3 ttl=52 time=19.632 ms
+64 bytes from 151.101.129.140: icmp_seq=4 ttl=52 time=21.340 ms
+64 bytes from 151.101.129.140: icmp_seq=5 ttl=52 time=18.737 ms
+64 bytes from 151.101.129.140: icmp_seq=6 ttl=52 time=21.491 ms
+64 bytes from 151.101.129.140: icmp_seq=7 ttl=52 time=17.734 ms
+64 bytes from 151.101.129.140: icmp_seq=8 ttl=52 time=18.655 ms
+64 bytes from 151.101.129.140: icmp_seq=9 ttl=52 time=22.348 ms
+
+--- reddit.com ping statistics ---
+10 packets transmitted, 10 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 17.734/20.244/24.089/1.900 ms
+
+====================
+
+PING google.co.uk (216.58.204.35): 56 data bytes
+64 bytes from 216.58.204.35: icmp_seq=0 ttl=51 time=21.428 ms
+64 bytes from 216.58.204.35: icmp_seq=1 ttl=51 time=29.403 ms
+64 bytes from 216.58.204.35: icmp_seq=2 ttl=51 time=27.227 ms
+64 bytes from 216.58.204.35: icmp_seq=3 ttl=51 time=22.641 ms
+64 bytes from 216.58.204.35: icmp_seq=4 ttl=51 time=26.809 ms
+64 bytes from 216.58.204.35: icmp_seq=5 ttl=51 time=26.736 ms
+64 bytes from 216.58.204.35: icmp_seq=6 ttl=51 time=22.600 ms
+64 bytes from 216.58.204.35: icmp_seq=7 ttl=51 time=21.370 ms
+64 bytes from 216.58.204.35: icmp_seq=8 ttl=51 time=24.271 ms
+64 bytes from 216.58.204.35: icmp_seq=9 ttl=51 time=21.876 ms
+
+--- google.co.uk ping statistics ---
+10 packets transmitted, 10 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 21.370/24.436/29.403/2.739 ms
+
+====================
+
+PING yahoo.co.jp (182.22.59.229): 56 data bytes
+64 bytes from 182.22.59.229: icmp_seq=0 ttl=43 time=374.389 ms
+64 bytes from 182.22.59.229: icmp_seq=1 ttl=43 time=273.432 ms
+64 bytes from 182.22.59.229: icmp_seq=2 ttl=43 time=276.220 ms
+64 bytes from 182.22.59.229: icmp_seq=3 ttl=43 time=333.967 ms
+64 bytes from 182.22.59.229: icmp_seq=4 ttl=43 time=276.414 ms
+64 bytes from 182.22.59.229: icmp_seq=5 ttl=43 time=272.736 ms
+64 bytes from 182.22.59.229: icmp_seq=6 ttl=43 time=290.207 ms
+64 bytes from 182.22.59.229: icmp_seq=7 ttl=43 time=309.390 ms
+64 bytes from 182.22.59.229: icmp_seq=8 ttl=43 time=328.159 ms
+64 bytes from 182.22.59.229: icmp_seq=9 ttl=43 time=347.244 ms
+
+--- yahoo.co.jp ping statistics ---
+10 packets transmitted, 10 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 272.736/308.216/374.389/34.340 ms
+
+====================
+
+PING google.com.br (216.58.201.35): 56 data bytes
+64 bytes from 216.58.201.35: icmp_seq=0 ttl=53 time=30.943 ms
+64 bytes from 216.58.201.35: icmp_seq=1 ttl=53 time=24.018 ms
+64 bytes from 216.58.201.35: icmp_seq=2 ttl=53 time=23.398 ms
+64 bytes from 216.58.201.35: icmp_seq=3 ttl=53 time=24.206 ms
+64 bytes from 216.58.201.35: icmp_seq=4 ttl=53 time=21.610 ms
+64 bytes from 216.58.201.35: icmp_seq=5 ttl=53 time=20.428 ms
+64 bytes from 216.58.201.35: icmp_seq=6 ttl=53 time=25.073 ms
+64 bytes from 216.58.201.35: icmp_seq=7 ttl=53 time=25.138 ms
+64 bytes from 216.58.201.35: icmp_seq=8 ttl=53 time=23.097 ms
+64 bytes from 216.58.201.35: icmp_seq=9 ttl=53 time=21.960 ms
+
+--- google.com.br ping statistics ---
+10 packets transmitted, 10 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 20.428/23.987/30.943/2.730 ms
+
+====================
+
+PING google.fr (216.58.212.99): 56 data bytes
+64 bytes from 216.58.212.99: icmp_seq=0 ttl=53 time=27.018 ms
+64 bytes from 216.58.212.99: icmp_seq=1 ttl=53 time=23.492 ms
+64 bytes from 216.58.212.99: icmp_seq=2 ttl=53 time=22.968 ms
+64 bytes from 216.58.212.99: icmp_seq=3 ttl=53 time=22.417 ms
+64 bytes from 216.58.212.99: icmp_seq=4 ttl=53 time=25.449 ms
+64 bytes from 216.58.212.99: icmp_seq=5 ttl=53 time=23.600 ms
+64 bytes from 216.58.212.99: icmp_seq=6 ttl=53 time=19.838 ms
+64 bytes from 216.58.212.99: icmp_seq=7 ttl=53 time=20.243 ms
+64 bytes from 216.58.212.99: icmp_seq=8 ttl=53 time=21.671 ms
+64 bytes from 216.58.212.99: icmp_seq=9 ttl=53 time=23.024 ms
+
+--- google.fr ping statistics ---
+10 packets transmitted, 10 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 19.838/22.972/27.018/2.060 ms
+
+====================
+
+PING yandex.ru (5.255.255.77): 56 data bytes
+64 bytes from 5.255.255.77: icmp_seq=0 ttl=51 time=57.405 ms
+64 bytes from 5.255.255.77: icmp_seq=1 ttl=51 time=63.107 ms
+64 bytes from 5.255.255.77: icmp_seq=2 ttl=51 time=58.082 ms
+64 bytes from 5.255.255.77: icmp_seq=3 ttl=51 time=59.142 ms
+64 bytes from 5.255.255.77: icmp_seq=4 ttl=51 time=58.084 ms
+64 bytes from 5.255.255.77: icmp_seq=5 ttl=51 time=59.001 ms
+64 bytes from 5.255.255.77: icmp_seq=6 ttl=51 time=58.125 ms
+64 bytes from 5.255.255.77: icmp_seq=7 ttl=51 time=81.908 ms
+64 bytes from 5.255.255.77: icmp_seq=8 ttl=51 time=56.648 ms
+64 bytes from 5.255.255.77: icmp_seq=9 ttl=51 time=59.141 ms
+
+--- yandex.ru ping statistics ---
+10 packets transmitted, 10 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 56.648/61.064/81.908/7.139 ms
+
+====================
+
+PING google.ru (216.58.212.99): 56 data bytes
+64 bytes from 216.58.212.99: icmp_seq=0 ttl=53 time=22.240 ms
+64 bytes from 216.58.212.99: icmp_seq=1 ttl=53 time=22.631 ms
+64 bytes from 216.58.212.99: icmp_seq=2 ttl=53 time=27.619 ms
+64 bytes from 216.58.212.99: icmp_seq=3 ttl=53 time=19.684 ms
+64 bytes from 216.58.212.99: icmp_seq=4 ttl=53 time=22.965 ms
+64 bytes from 216.58.212.99: icmp_seq=5 ttl=53 time=24.742 ms
+64 bytes from 216.58.212.99: icmp_seq=6 ttl=53 time=25.632 ms
+64 bytes from 216.58.212.99: icmp_seq=7 ttl=53 time=25.352 ms
+64 bytes from 216.58.212.99: icmp_seq=8 ttl=53 time=25.078 ms
+64 bytes from 216.58.212.99: icmp_seq=9 ttl=53 time=24.711 ms
+
+--- google.ru ping statistics ---
+10 packets transmitted, 10 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 19.684/24.065/27.619/2.108 ms
+
+====================
+
+PING onclickads.net (206.54.163.4): 56 data bytes
+64 bytes from 206.54.163.4: icmp_seq=0 ttl=52 time=34.802 ms
+64 bytes from 206.54.163.4: icmp_seq=1 ttl=52 time=96.639 ms
+64 bytes from 206.54.163.4: icmp_seq=2 ttl=52 time=38.615 ms
+64 bytes from 206.54.163.4: icmp_seq=3 ttl=52 time=40.572 ms
+64 bytes from 206.54.163.4: icmp_seq=4 ttl=52 time=34.837 ms
+64 bytes from 206.54.163.4: icmp_seq=5 ttl=52 time=44.570 ms
+64 bytes from 206.54.163.4: icmp_seq=6 ttl=52 time=145.637 ms
+64 bytes from 206.54.163.4: icmp_seq=7 ttl=52 time=46.488 ms
+64 bytes from 206.54.163.4: icmp_seq=8 ttl=52 time=42.253 ms
+64 bytes from 206.54.163.4: icmp_seq=9 ttl=52 time=36.413 ms
+
+--- onclickads.net ping statistics ---
+10 packets transmitted, 10 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 34.802/56.083/145.637/34.522 ms
+
+====================
+
+PING soso.com (106.120.151.169): 56 data bytes
+64 bytes from 106.120.151.169: icmp_seq=0 ttl=43 time=354.898 ms
+64 bytes from 106.120.151.169: icmp_seq=1 ttl=43 time=352.068 ms
+64 bytes from 106.120.151.169: icmp_seq=2 ttl=43 time=354.106 ms
+64 bytes from 106.120.151.169: icmp_seq=3 ttl=43 time=359.835 ms
+64 bytes from 106.120.151.169: icmp_seq=4 ttl=43 time=393.368 ms
+64 bytes from 106.120.151.169: icmp_seq=5 ttl=43 time=355.238 ms
+64 bytes from 106.120.151.169: icmp_seq=6 ttl=43 time=354.696 ms
+64 bytes from 106.120.151.169: icmp_seq=7 ttl=43 time=452.314 ms
+64 bytes from 106.120.151.169: icmp_seq=8 ttl=43 time=368.557 ms
+64 bytes from 106.120.151.169: icmp_seq=9 ttl=43 time=388.550 ms
+
+--- soso.com ping statistics ---
+10 packets transmitted, 10 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 352.068/373.363/452.314/29.854 ms
+
+====================
+
+PING t.co (104.244.42.197): 56 data bytes
+64 bytes from 104.244.42.197: icmp_seq=0 ttl=53 time=19.705 ms
+64 bytes from 104.244.42.197: icmp_seq=1 ttl=53 time=34.502 ms
+64 bytes from 104.244.42.197: icmp_seq=2 ttl=53 time=29.281 ms
+64 bytes from 104.244.42.197: icmp_seq=3 ttl=53 time=21.016 ms
+64 bytes from 104.244.42.197: icmp_seq=4 ttl=53 time=22.977 ms
+64 bytes from 104.244.42.197: icmp_seq=5 ttl=53 time=19.667 ms
+64 bytes from 104.244.42.197: icmp_seq=6 ttl=53 time=20.467 ms
+64 bytes from 104.244.42.197: icmp_seq=7 ttl=53 time=59.122 ms
+64 bytes from 104.244.42.197: icmp_seq=8 ttl=53 time=34.551 ms
+64 bytes from 104.244.42.197: icmp_seq=9 ttl=53 time=65.221 ms
+
+--- t.co ping statistics ---
+10 packets transmitted, 10 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 19.667/32.651/65.221/15.791 ms
+
+====================
+
+PING ebay.com (66.211.181.123): 56 data bytes
+Request timeout for icmp_seq 0
+Request timeout for icmp_seq 1
+Request timeout for icmp_seq 2
+Request timeout for icmp_seq 3
+Request timeout for icmp_seq 4
+Request timeout for icmp_seq 5
+Request timeout for icmp_seq 6
+Request timeout for icmp_seq 7
+Request timeout for icmp_seq 8
+
+--- ebay.com ping statistics ---
+10 packets transmitted, 0 packets received, 100.0% packet loss
+
+====================
+
+PING wordpress.com (192.0.78.17): 56 data bytes
+64 bytes from 192.0.78.17: icmp_seq=0 ttl=55 time=32.610 ms
+64 bytes from 192.0.78.17: icmp_seq=1 ttl=55 time=30.765 ms
+64 bytes from 192.0.78.17: icmp_seq=2 ttl=55 time=89.071 ms
+64 bytes from 192.0.78.17: icmp_seq=3 ttl=55 time=39.742 ms
+64 bytes from 192.0.78.17: icmp_seq=4 ttl=55 time=39.227 ms
+64 bytes from 192.0.78.17: icmp_seq=5 ttl=55 time=34.246 ms
+64 bytes from 192.0.78.17: icmp_seq=6 ttl=55 time=66.921 ms
+64 bytes from 192.0.78.17: icmp_seq=7 ttl=55 time=31.292 ms
+64 bytes from 192.0.78.17: icmp_seq=8 ttl=55 time=29.608 ms
+64 bytes from 192.0.78.17: icmp_seq=9 ttl=55 time=35.350 ms
+
+--- wordpress.com ping statistics ---
+10 packets transmitted, 10 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 29.608/42.883/89.071/18.517 ms
+
+====================
+
+PING bing.com (13.107.21.200): 56 data bytes
+64 bytes from 13.107.21.200: icmp_seq=0 ttl=118 time=23.858 ms
+64 bytes from 13.107.21.200: icmp_seq=1 ttl=118 time=22.567 ms
+64 bytes from 13.107.21.200: icmp_seq=2 ttl=118 time=25.358 ms
+64 bytes from 13.107.21.200: icmp_seq=3 ttl=118 time=31.409 ms
+64 bytes from 13.107.21.200: icmp_seq=4 ttl=118 time=26.401 ms
+64 bytes from 13.107.21.200: icmp_seq=5 ttl=118 time=32.312 ms
+64 bytes from 13.107.21.200: icmp_seq=6 ttl=118 time=26.043 ms
+64 bytes from 13.107.21.200: icmp_seq=7 ttl=118 time=27.880 ms
+64 bytes from 13.107.21.200: icmp_seq=8 ttl=118 time=25.556 ms
+64 bytes from 13.107.21.200: icmp_seq=9 ttl=118 time=25.138 ms
+
+--- bing.com ping statistics ---
+10 packets transmitted, 10 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 22.567/26.652/32.312/2.937 ms
+
+====================
+
+PING blogspot.com (216.58.208.137): 56 data bytes
+64 bytes from 216.58.208.137: icmp_seq=0 ttl=55 time=16.840 ms
+64 bytes from 216.58.208.137: icmp_seq=1 ttl=55 time=17.476 ms
+64 bytes from 216.58.208.137: icmp_seq=2 ttl=55 time=19.960 ms
+64 bytes from 216.58.208.137: icmp_seq=3 ttl=55 time=17.328 ms
+64 bytes from 216.58.208.137: icmp_seq=4 ttl=55 time=20.650 ms
+64 bytes from 216.58.208.137: icmp_seq=5 ttl=55 time=16.114 ms
+64 bytes from 216.58.208.137: icmp_seq=6 ttl=55 time=16.846 ms
+64 bytes from 216.58.208.137: icmp_seq=7 ttl=55 time=18.337 ms
+64 bytes from 216.58.208.137: icmp_seq=8 ttl=55 time=15.623 ms
+64 bytes from 216.58.208.137: icmp_seq=9 ttl=55 time=22.476 ms
+
+--- blogspot.com ping statistics ---
+10 packets transmitted, 10 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 15.623/18.165/22.476/2.082 ms
+
+====================
+
+PING google.it (216.58.204.67): 56 data bytes
+64 bytes from 216.58.204.67: icmp_seq=0 ttl=53 time=21.024 ms
+64 bytes from 216.58.204.67: icmp_seq=1 ttl=53 time=24.313 ms
+64 bytes from 216.58.204.67: icmp_seq=2 ttl=53 time=27.982 ms
+64 bytes from 216.58.204.67: icmp_seq=3 ttl=53 time=24.410 ms
+64 bytes from 216.58.204.67: icmp_seq=4 ttl=53 time=22.221 ms
+64 bytes from 216.58.204.67: icmp_seq=5 ttl=53 time=30.118 ms
+64 bytes from 216.58.204.67: icmp_seq=6 ttl=53 time=20.254 ms
+64 bytes from 216.58.204.67: icmp_seq=7 ttl=53 time=23.489 ms
+64 bytes from 216.58.204.67: icmp_seq=8 ttl=53 time=27.609 ms
+64 bytes from 216.58.204.67: icmp_seq=9 ttl=53 time=22.625 ms
+
+--- google.it ping statistics ---
+10 packets transmitted, 10 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 20.254/24.405/30.118/3.052 ms
+
+====================
+
+PING tumblr.com (66.6.32.30): 56 data bytes
+Request timeout for icmp_seq 0
+Request timeout for icmp_seq 1
+Request timeout for icmp_seq 2
+Request timeout for icmp_seq 3
+Request timeout for icmp_seq 4
+Request timeout for icmp_seq 5
+Request timeout for icmp_seq 6
+Request timeout for icmp_seq 7
+Request timeout for icmp_seq 8
+
+--- tumblr.com ping statistics ---
+10 packets transmitted, 0 packets received, 100.0% packet loss
+
+====================
+
+PING google.es (216.58.198.163): 56 data bytes
+64 bytes from 216.58.198.163: icmp_seq=0 ttl=52 time=28.480 ms
+64 bytes from 216.58.198.163: icmp_seq=1 ttl=52 time=28.808 ms
+64 bytes from 216.58.198.163: icmp_seq=2 ttl=52 time=31.917 ms
+64 bytes from 216.58.198.163: icmp_seq=3 ttl=52 time=31.381 ms
+64 bytes from 216.58.198.163: icmp_seq=4 ttl=52 time=28.157 ms
+64 bytes from 216.58.198.163: icmp_seq=5 ttl=52 time=27.993 ms
+64 bytes from 216.58.198.163: icmp_seq=6 ttl=52 time=22.013 ms
+64 bytes from 216.58.198.163: icmp_seq=7 ttl=52 time=23.098 ms
+64 bytes from 216.58.198.163: icmp_seq=8 ttl=52 time=27.625 ms
+64 bytes from 216.58.198.163: icmp_seq=9 ttl=52 time=24.969 ms
+
+--- google.es ping statistics ---
+10 packets transmitted, 10 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 22.013/27.444/31.917/3.063 ms
+
+====================
+
+PING msn.com (13.88.15.24): 56 data bytes
+Request timeout for icmp_seq 0
+Request timeout for icmp_seq 1
+Request timeout for icmp_seq 2
+Request timeout for icmp_seq 3
+Request timeout for icmp_seq 4
+Request timeout for icmp_seq 5
+Request timeout for icmp_seq 6
+Request timeout for icmp_seq 7
+Request timeout for icmp_seq 8
+
+--- msn.com ping statistics ---
+10 packets transmitted, 0 packets received, 100.0% packet loss
+
+====================
+
+PING stackoverflow.com (151.101.129.69): 56 data bytes
+64 bytes from 151.101.129.69: icmp_seq=0 ttl=53 time=19.608 ms
+64 bytes from 151.101.129.69: icmp_seq=1 ttl=53 time=20.008 ms
+64 bytes from 151.101.129.69: icmp_seq=2 ttl=53 time=19.811 ms
+64 bytes from 151.101.129.69: icmp_seq=3 ttl=53 time=21.402 ms
+64 bytes from 151.101.129.69: icmp_seq=4 ttl=53 time=20.389 ms
+64 bytes from 151.101.129.69: icmp_seq=5 ttl=53 time=17.138 ms
+64 bytes from 151.101.129.69: icmp_seq=6 ttl=53 time=16.813 ms
+64 bytes from 151.101.129.69: icmp_seq=7 ttl=53 time=15.770 ms
+64 bytes from 151.101.129.69: icmp_seq=8 ttl=53 time=18.871 ms
+64 bytes from 151.101.129.69: icmp_seq=9 ttl=53 time=17.818 ms
+
+--- stackoverflow.com ping statistics ---
+10 packets transmitted, 10 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 15.770/18.763/21.402/1.711 ms
+
+====================
+
+PING (203.130.59.30): 56 data bytes
+64 bytes from 203.130.59.30: icmp_seq=0 ttl=51 time=16.856 ms
+64 bytes from 203.130.59.30: icmp_seq=1 ttl=51 time=22.408 ms
+64 bytes from 203.130.59.30: icmp_seq=2 ttl=51 time=21.889 ms
+64 bytes from 203.130.59.30: icmp_seq=3 ttl=51 time=19.306 ms
+64 bytes from 203.130.59.30: icmp_seq=4 ttl=51 time=17.508 ms
+64 bytes from 203.130.59.30: icmp_seq=5 ttl=51 time=19.428 ms
+64 bytes from 203.130.59.30: icmp_seq=6 ttl=51 time=18.376 ms
+64 bytes from 203.130.59.30: icmp_seq=7 ttl=51 time=18.766 ms
+64 bytes from 203.130.59.30: icmp_seq=8 ttl=51 time=18.555 ms
+64 bytes from 203.130.59.30: icmp_seq=9 ttl=51 time=22.185 ms
+
+--- guangmingwang.xdwscache.ourwebpic.com ping statistics ---
+10 packets transmitted, 10 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 16.856/19.528/22.408/1.872 ms
+
+====================
+
+PING aliexpress.com (198.11.132.250): 56 data bytes
+64 bytes from 198.11.132.250: icmp_seq=0 ttl=25 time=199.675 ms
+64 bytes from 198.11.132.250: icmp_seq=1 ttl=25 time=198.183 ms
+64 bytes from 198.11.132.250: icmp_seq=2 ttl=25 time=190.602 ms
+64 bytes from 198.11.132.250: icmp_seq=3 ttl=25 time=195.419 ms
+64 bytes from 198.11.132.250: icmp_seq=4 ttl=25 time=195.594 ms
+64 bytes from 198.11.132.250: icmp_seq=5 ttl=25 time=199.643 ms
+64 bytes from 198.11.132.250: icmp_seq=6 ttl=25 time=199.517 ms
+64 bytes from 198.11.132.250: icmp_seq=7 ttl=25 time=195.786 ms
+64 bytes from 198.11.132.250: icmp_seq=8 ttl=25 time=195.521 ms
+64 bytes from 198.11.132.250: icmp_seq=9 ttl=25 time=192.438 ms
+
+--- aliexpress.com ping statistics ---
+10 packets transmitted, 10 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 190.602/196.238/199.675/2.932 ms
+
+====================
+
+PING microsoft.com (104.40.211.35): 56 data bytes
+Request timeout for icmp_seq 0
+Request timeout for icmp_seq 1
+Request timeout for icmp_seq 2
+Request timeout for icmp_seq 3
+Request timeout for icmp_seq 4
+Request timeout for icmp_seq 5
+Request timeout for icmp_seq 6
+Request timeout for icmp_seq 7
+Request timeout for icmp_seq 8
+
+--- microsoft.com ping statistics ---
+10 packets transmitted, 0 packets received, 100.0% packet loss
+
+====================
+
+PING apple.com (17.178.96.59): 56 data bytes
+Request timeout for icmp_seq 0
+Request timeout for icmp_seq 1
+Request timeout for icmp_seq 2
+Request timeout for icmp_seq 3
+Request timeout for icmp_seq 4
+Request timeout for icmp_seq 5
+Request timeout for icmp_seq 6
+Request timeout for icmp_seq 7
+Request timeout for icmp_seq 8
+
+--- apple.com ping statistics ---
+10 packets transmitted, 0 packets received, 100.0% packet loss
+
+====================
+
+PING google.com.mx (216.58.204.3): 56 data bytes
+64 bytes from 216.58.204.3: icmp_seq=0 ttl=51 time=22.951 ms
+64 bytes from 216.58.204.3: icmp_seq=1 ttl=51 time=58.329 ms
+64 bytes from 216.58.204.3: icmp_seq=2 ttl=51 time=22.019 ms
+64 bytes from 216.58.204.3: icmp_seq=3 ttl=51 time=35.223 ms
+64 bytes from 216.58.204.3: icmp_seq=4 ttl=51 time=23.884 ms
+64 bytes from 216.58.204.3: icmp_seq=5 ttl=51 time=21.438 ms
+64 bytes from 216.58.204.3: icmp_seq=6 ttl=51 time=23.249 ms
+64 bytes from 216.58.204.3: icmp_seq=7 ttl=51 time=24.207 ms
+64 bytes from 216.58.204.3: icmp_seq=8 ttl=51 time=24.174 ms
+64 bytes from 216.58.204.3: icmp_seq=9 ttl=51 time=21.280 ms
+
+--- google.com.mx ping statistics ---
+10 packets transmitted, 10 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 21.280/27.675/58.329/10.904 ms
+
+====================
+
+PING netflix.com (54.76.83.27): 56 data bytes
+Request timeout for icmp_seq 0
+Request timeout for icmp_seq 1
+Request timeout for icmp_seq 2
+Request timeout for icmp_seq 3
+Request timeout for icmp_seq 4
+Request timeout for icmp_seq 5
+Request timeout for icmp_seq 6
+Request timeout for icmp_seq 7
+Request timeout for icmp_seq 8
+
+--- netflix.com ping statistics ---
+10 packets transmitted, 0 packets received, 100.0% packet loss
+
+====================
+
+PING pinterest.com (104.156.85.84): 56 data bytes
+64 bytes from 104.156.85.84: icmp_seq=0 ttl=53 time=21.784 ms
+64 bytes from 104.156.85.84: icmp_seq=1 ttl=53 time=16.517 ms
+64 bytes from 104.156.85.84: icmp_seq=2 ttl=53 time=18.219 ms
+64 bytes from 104.156.85.84: icmp_seq=3 ttl=53 time=23.241 ms
+64 bytes from 104.156.85.84: icmp_seq=4 ttl=53 time=18.661 ms
+64 bytes from 104.156.85.84: icmp_seq=5 ttl=53 time=19.908 ms
+64 bytes from 104.156.85.84: icmp_seq=6 ttl=53 time=18.121 ms
+64 bytes from 104.156.85.84: icmp_seq=7 ttl=53 time=19.727 ms
+64 bytes from 104.156.85.84: icmp_seq=8 ttl=53 time=23.533 ms
+64 bytes from 104.156.85.84: icmp_seq=9 ttl=53 time=19.467 ms
+
+--- pinterest.com ping statistics ---
+10 packets transmitted, 10 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 16.517/19.918/23.533/2.170 ms
+
+====================
+
+PING google.ca (172.217.23.3): 56 data bytes
+64 bytes from 172.217.23.3: icmp_seq=0 ttl=53 time=22.618 ms
+64 bytes from 172.217.23.3: icmp_seq=1 ttl=53 time=24.857 ms
+64 bytes from 172.217.23.3: icmp_seq=2 ttl=53 time=30.450 ms
+64 bytes from 172.217.23.3: icmp_seq=3 ttl=53 time=19.757 ms
+64 bytes from 172.217.23.3: icmp_seq=4 ttl=53 time=27.005 ms
+64 bytes from 172.217.23.3: icmp_seq=5 ttl=53 time=24.904 ms
+64 bytes from 172.217.23.3: icmp_seq=6 ttl=53 time=22.913 ms
+64 bytes from 172.217.23.3: icmp_seq=7 ttl=53 time=30.052 ms
+64 bytes from 172.217.23.3: icmp_seq=8 ttl=53 time=24.643 ms
+64 bytes from 172.217.23.3: icmp_seq=9 ttl=53 time=22.465 ms
+
+--- google.ca ping statistics ---
+10 packets transmitted, 10 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 19.757/24.966/30.450/3.215 ms
+
+====================
+
+PING imgur.com (151.101.16.193): 56 data bytes
+64 bytes from 151.101.16.193: icmp_seq=0 ttl=53 time=30.810 ms
+64 bytes from 151.101.16.193: icmp_seq=1 ttl=53 time=28.307 ms
+64 bytes from 151.101.16.193: icmp_seq=2 ttl=53 time=25.512 ms
+64 bytes from 151.101.16.193: icmp_seq=3 ttl=53 time=30.421 ms
+64 bytes from 151.101.16.193: icmp_seq=4 ttl=53 time=29.242 ms
+64 bytes from 151.101.16.193: icmp_seq=5 ttl=53 time=27.907 ms
+64 bytes from 151.101.16.193: icmp_seq=6 ttl=53 time=31.725 ms
+64 bytes from 151.101.16.193: icmp_seq=7 ttl=53 time=27.617 ms
+64 bytes from 151.101.16.193: icmp_seq=8 ttl=53 time=29.526 ms
+64 bytes from 151.101.16.193: icmp_seq=9 ttl=53 time=31.712 ms
+
+--- imgur.com ping statistics ---
+10 packets transmitted, 10 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 25.512/29.278/31.725/1.881 ms
+
+====================
+
+PING paypal.com (64.4.250.24): 56 data bytes
+Request timeout for icmp_seq 0
+Request timeout for icmp_seq 1
+Request timeout for icmp_seq 2
+Request timeout for icmp_seq 3
+Request timeout for icmp_seq 4
+Request timeout for icmp_seq 5
+Request timeout for icmp_seq 6
+Request timeout for icmp_seq 7
+Request timeout for icmp_seq 8
+
+--- paypal.com ping statistics ---
+10 packets transmitted, 0 packets received, 100.0% packet loss
+
+====================
+
+PING imdb.com (72.21.206.80): 56 data bytes
+64 bytes from 72.21.206.80: icmp_seq=0 ttl=227 time=123.526 ms
+64 bytes from 72.21.206.80: icmp_seq=1 ttl=227 time=117.280 ms
+64 bytes from 72.21.206.80: icmp_seq=2 ttl=227 time=121.352 ms
+64 bytes from 72.21.206.80: icmp_seq=3 ttl=227 time=121.760 ms
+64 bytes from 72.21.206.80: icmp_seq=4 ttl=227 time=121.627 ms
+64 bytes from 72.21.206.80: icmp_seq=5 ttl=227 time=121.934 ms
+64 bytes from 72.21.206.80: icmp_seq=6 ttl=227 time=125.880 ms
+64 bytes from 72.21.206.80: icmp_seq=7 ttl=227 time=121.708 ms
+64 bytes from 72.21.206.80: icmp_seq=8 ttl=227 time=121.035 ms
+64 bytes from 72.21.206.80: icmp_seq=9 ttl=227 time=122.996 ms
+
+--- imdb.com ping statistics ---
+10 packets transmitted, 10 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 117.280/121.910/125.880/2.054 ms
+
+====================
+
+PING mail.ru (217.69.139.200): 56 data bytes
+64 bytes from 217.69.139.200: icmp_seq=0 ttl=46 time=77.519 ms
+64 bytes from 217.69.139.200: icmp_seq=1 ttl=46 time=77.434 ms
+64 bytes from 217.69.139.200: icmp_seq=2 ttl=46 time=191.071 ms
+64 bytes from 217.69.139.200: icmp_seq=3 ttl=46 time=77.317 ms
+64 bytes from 217.69.139.200: icmp_seq=4 ttl=46 time=173.041 ms
+64 bytes from 217.69.139.200: icmp_seq=5 ttl=46 time=77.607 ms
+64 bytes from 217.69.139.200: icmp_seq=6 ttl=46 time=110.955 ms
+64 bytes from 217.69.139.200: icmp_seq=7 ttl=46 time=78.945 ms
+64 bytes from 217.69.139.200: icmp_seq=8 ttl=46 time=102.412 ms
+64 bytes from 217.69.139.200: icmp_seq=9 ttl=46 time=75.613 ms
+
+--- mail.ru ping statistics ---
+10 packets transmitted, 10 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 75.613/104.191/191.071/40.802 ms
+
+====================
+
+PING google.com.hk (172.217.22.99): 56 data bytes
+64 bytes from 172.217.22.99: icmp_seq=0 ttl=48 time=34.383 ms
+64 bytes from 172.217.22.99: icmp_seq=1 ttl=48 time=37.220 ms
+64 bytes from 172.217.22.99: icmp_seq=2 ttl=48 time=37.631 ms
+64 bytes from 172.217.22.99: icmp_seq=3 ttl=48 time=44.506 ms
+64 bytes from 172.217.22.99: icmp_seq=4 ttl=48 time=33.502 ms
+64 bytes from 172.217.22.99: icmp_seq=5 ttl=48 time=33.035 ms
+64 bytes from 172.217.22.99: icmp_seq=6 ttl=48 time=34.235 ms
+64 bytes from 172.217.22.99: icmp_seq=7 ttl=48 time=34.589 ms
+64 bytes from 172.217.22.99: icmp_seq=8 ttl=48 time=33.713 ms
+64 bytes from 172.217.22.99: icmp_seq=9 ttl=48 time=39.083 ms
+
+--- google.com.hk ping statistics ---
+10 packets transmitted, 10 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 33.035/36.190/44.506/3.371 ms
+
+====================
+
+PING naver.com (202.179.177.22): 56 data bytes
+Request timeout for icmp_seq 0
+Request timeout for icmp_seq 1
+Request timeout for icmp_seq 2
+Request timeout for icmp_seq 3
+Request timeout for icmp_seq 4
+Request timeout for icmp_seq 5
+Request timeout for icmp_seq 6
+Request timeout for icmp_seq 7
+Request timeout for icmp_seq 8
+
+--- naver.com ping statistics ---
+10 packets transmitted, 0 packets received, 100.0% packet loss
+
+====================
+
+PING popads.net (216.21.13.13): 56 data bytes
+64 bytes from 216.21.13.13: icmp_seq=0 ttl=242 time=37.239 ms
+64 bytes from 216.21.13.13: icmp_seq=1 ttl=242 time=34.969 ms
+64 bytes from 216.21.13.13: icmp_seq=2 ttl=242 time=40.626 ms
+64 bytes from 216.21.13.13: icmp_seq=3 ttl=242 time=37.006 ms
+64 bytes from 216.21.13.13: icmp_seq=4 ttl=242 time=33.667 ms
+64 bytes from 216.21.13.13: icmp_seq=5 ttl=242 time=36.967 ms
+64 bytes from 216.21.13.13: icmp_seq=6 ttl=242 time=33.688 ms
+64 bytes from 216.21.13.13: icmp_seq=7 ttl=242 time=38.229 ms
+64 bytes from 216.21.13.13: icmp_seq=8 ttl=242 time=31.170 ms
+64 bytes from 216.21.13.13: icmp_seq=9 ttl=242 time=149.540 ms
+
+--- popads.net ping statistics ---
+10 packets transmitted, 10 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 31.170/47.310/149.540/34.172 ms
+
+====================
+
+PING amazon.co.jp (54.240.252.0): 56 data bytes
+64 bytes from 54.240.252.0: icmp_seq=0 ttl=230 time=198.446 ms
+64 bytes from 54.240.252.0: icmp_seq=1 ttl=230 time=194.240 ms
+64 bytes from 54.240.252.0: icmp_seq=2 ttl=230 time=198.793 ms
+64 bytes from 54.240.252.0: icmp_seq=3 ttl=230 time=190.729 ms
+64 bytes from 54.240.252.0: icmp_seq=4 ttl=230 time=217.784 ms
+64 bytes from 54.240.252.0: icmp_seq=5 ttl=230 time=195.293 ms
+64 bytes from 54.240.252.0: icmp_seq=6 ttl=230 time=258.178 ms
+64 bytes from 54.240.252.0: icmp_seq=7 ttl=230 time=200.840 ms
+64 bytes from 54.240.252.0: icmp_seq=8 ttl=230 time=195.971 ms
+64 bytes from 54.240.252.0: icmp_seq=9 ttl=230 time=198.044 ms
+
+--- amazon.co.jp ping statistics ---
+10 packets transmitted, 10 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 190.729/204.832/258.178/19.062 ms
+
+====================
+
+PING pornhub.com (31.192.120.36): 56 data bytes
+64 bytes from 31.192.120.36: icmp_seq=0 ttl=50 time=29.484 ms
+64 bytes from 31.192.120.36: icmp_seq=1 ttl=50 time=27.467 ms
+64 bytes from 31.192.120.36: icmp_seq=2 ttl=50 time=29.638 ms
+64 bytes from 31.192.120.36: icmp_seq=3 ttl=50 time=26.107 ms
+64 bytes from 31.192.120.36: icmp_seq=4 ttl=50 time=30.483 ms
+64 bytes from 31.192.120.36: icmp_seq=5 ttl=50 time=34.554 ms
+64 bytes from 31.192.120.36: icmp_seq=6 ttl=50 time=32.213 ms
+64 bytes from 31.192.120.36: icmp_seq=7 ttl=50 time=31.570 ms
+64 bytes from 31.192.120.36: icmp_seq=8 ttl=50 time=30.965 ms
+64 bytes from 31.192.120.36: icmp_seq=9 ttl=50 time=31.962 ms
+
+--- pornhub.com ping statistics ---
+10 packets transmitted, 10 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 26.107/30.444/34.554/2.305 ms
+
+====================
+
+PING ok.ru (5.61.23.5): 56 data bytes
+64 bytes from 5.61.23.5: icmp_seq=0 ttl=50 time=79.923 ms
+64 bytes from 5.61.23.5: icmp_seq=1 ttl=50 time=83.249 ms
+64 bytes from 5.61.23.5: icmp_seq=2 ttl=50 time=88.824 ms
+64 bytes from 5.61.23.5: icmp_seq=3 ttl=50 time=76.366 ms
+64 bytes from 5.61.23.5: icmp_seq=4 ttl=50 time=77.750 ms
+64 bytes from 5.61.23.5: icmp_seq=5 ttl=50 time=77.300 ms
+64 bytes from 5.61.23.5: icmp_seq=6 ttl=50 time=73.898 ms
+64 bytes from 5.61.23.5: icmp_seq=7 ttl=50 time=78.434 ms
+64 bytes from 5.61.23.5: icmp_seq=8 ttl=50 time=79.313 ms
+64 bytes from 5.61.23.5: icmp_seq=9 ttl=50 time=77.694 ms
+
+--- ok.ru ping statistics ---
+10 packets transmitted, 10 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 73.898/79.275/88.824/3.927 ms
+
+====================
+
+PING github.com (192.30.253.112): 56 data bytes
+64 bytes from 192.30.253.112: icmp_seq=0 ttl=47 time=123.283 ms
+64 bytes from 192.30.253.112: icmp_seq=1 ttl=47 time=130.063 ms
+64 bytes from 192.30.253.112: icmp_seq=2 ttl=47 time=125.442 ms
+64 bytes from 192.30.253.112: icmp_seq=3 ttl=47 time=124.920 ms
+64 bytes from 192.30.253.112: icmp_seq=4 ttl=47 time=189.488 ms
+64 bytes from 192.30.253.112: icmp_seq=5 ttl=47 time=126.808 ms
+64 bytes from 192.30.253.112: icmp_seq=6 ttl=47 time=187.585 ms
+64 bytes from 192.30.253.112: icmp_seq=7 ttl=47 time=132.500 ms
+64 bytes from 192.30.253.112: icmp_seq=8 ttl=47 time=186.416 ms
+64 bytes from 192.30.253.112: icmp_seq=9 ttl=47 time=126.527 ms
+
+--- github.com ping statistics ---
+10 packets transmitted, 10 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 123.283/145.303/189.488/27.957 ms
+
+====================
+
+PING blogger.com (216.58.204.9): 56 data bytes
+64 bytes from 216.58.204.9: icmp_seq=0 ttl=53 time=20.823 ms
+64 bytes from 216.58.204.9: icmp_seq=1 ttl=53 time=21.163 ms
+64 bytes from 216.58.204.9: icmp_seq=2 ttl=53 time=22.334 ms
+64 bytes from 216.58.204.9: icmp_seq=3 ttl=53 time=27.761 ms
+64 bytes from 216.58.204.9: icmp_seq=4 ttl=53 time=22.802 ms
+64 bytes from 216.58.204.9: icmp_seq=5 ttl=53 time=25.929 ms
+64 bytes from 216.58.204.9: icmp_seq=6 ttl=53 time=23.847 ms
+64 bytes from 216.58.204.9: icmp_seq=7 ttl=53 time=23.947 ms
+64 bytes from 216.58.204.9: icmp_seq=8 ttl=53 time=22.125 ms
+64 bytes from 216.58.204.9: icmp_seq=9 ttl=53 time=20.806 ms
+
+--- blogger.com ping statistics ---
+10 packets transmitted, 10 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 20.806/23.154/27.761/2.163 ms
+
+====================
+
+PING google.co.kr (216.58.204.35): 56 data bytes
+64 bytes from 216.58.204.35: icmp_seq=0 ttl=51 time=20.561 ms
+64 bytes from 216.58.204.35: icmp_seq=1 ttl=51 time=27.916 ms
+64 bytes from 216.58.204.35: icmp_seq=2 ttl=51 time=25.172 ms
+64 bytes from 216.58.204.35: icmp_seq=3 ttl=51 time=23.521 ms
+64 bytes from 216.58.204.35: icmp_seq=4 ttl=51 time=19.147 ms
+64 bytes from 216.58.204.35: icmp_seq=5 ttl=51 time=21.562 ms
+64 bytes from 216.58.204.35: icmp_seq=6 ttl=51 time=23.395 ms
+64 bytes from 216.58.204.35: icmp_seq=7 ttl=51 time=21.060 ms
+64 bytes from 216.58.204.35: icmp_seq=8 ttl=51 time=21.401 ms
+64 bytes from 216.58.204.35: icmp_seq=9 ttl=51 time=114.001 ms
+
+--- google.co.kr ping statistics ---
+10 packets transmitted, 10 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 19.147/31.774/114.001/27.513 ms
+
+====================
+
+PING amazon.in (54.239.32.8): 56 data bytes
+64 bytes from 54.239.32.8: icmp_seq=0 ttl=238 time=28.588 ms
+64 bytes from 54.239.32.8: icmp_seq=1 ttl=238 time=29.296 ms
+64 bytes from 54.239.32.8: icmp_seq=2 ttl=238 time=29.764 ms
+64 bytes from 54.239.32.8: icmp_seq=3 ttl=238 time=32.279 ms
+64 bytes from 54.239.32.8: icmp_seq=4 ttl=238 time=35.599 ms
+64 bytes from 54.239.32.8: icmp_seq=5 ttl=238 time=30.261 ms
+64 bytes from 54.239.32.8: icmp_seq=6 ttl=238 time=30.241 ms
+64 bytes from 54.239.32.8: icmp_seq=7 ttl=238 time=32.861 ms
+64 bytes from 54.239.32.8: icmp_seq=8 ttl=238 time=34.465 ms
+64 bytes from 54.239.32.8: icmp_seq=9 ttl=238 time=28.543 ms
+
+--- amazon.in ping statistics ---
+10 packets transmitted, 10 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 28.543/31.190/35.599/2.352 ms
+
+====================
+
+PING office.com (104.40.225.204): 56 data bytes
+Request timeout for icmp_seq 0
+Request timeout for icmp_seq 1
+Request timeout for icmp_seq 2
+Request timeout for icmp_seq 3
+Request timeout for icmp_seq 4
+Request timeout for icmp_seq 5
+Request timeout for icmp_seq 6
+Request timeout for icmp_seq 7
+Request timeout for icmp_seq 8
+
+--- office.com ping statistics ---
+10 packets transmitted, 0 packets received, 100.0% packet loss
+
+====================
+
+PING cnzz.com (42.156.162.55): 56 data bytes
+64 bytes from 42.156.162.55: icmp_seq=0 ttl=25 time=365.404 ms
+64 bytes from 42.156.162.55: icmp_seq=1 ttl=25 time=293.679 ms
+64 bytes from 42.156.162.55: icmp_seq=2 ttl=25 time=304.348 ms
+64 bytes from 42.156.162.55: icmp_seq=3 ttl=25 time=327.249 ms
+64 bytes from 42.156.162.55: icmp_seq=4 ttl=25 time=350.505 ms
+64 bytes from 42.156.162.55: icmp_seq=5 ttl=25 time=292.685 ms
+64 bytes from 42.156.162.55: icmp_seq=6 ttl=25 time=394.504 ms
+64 bytes from 42.156.162.55: icmp_seq=7 ttl=25 time=296.790 ms
+64 bytes from 42.156.162.55: icmp_seq=8 ttl=25 time=437.959 ms
+64 bytes from 42.156.162.55: icmp_seq=9 ttl=25 time=356.491 ms
+
+--- cnzz.com ping statistics ---
+10 packets transmitted, 10 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 292.685/341.961/437.959/46.088 ms
+
+====================
+
+PING whatsapp.com (192.155.212.203): 56 data bytes
+64 bytes from 192.155.212.203: icmp_seq=0 ttl=49 time=163.966 ms
+64 bytes from 192.155.212.203: icmp_seq=1 ttl=49 time=152.740 ms
+64 bytes from 192.155.212.203: icmp_seq=2 ttl=49 time=154.574 ms
+64 bytes from 192.155.212.203: icmp_seq=3 ttl=49 time=265.701 ms
+64 bytes from 192.155.212.203: icmp_seq=4 ttl=49 time=182.569 ms
+64 bytes from 192.155.212.203: icmp_seq=5 ttl=49 time=149.718 ms
+64 bytes from 192.155.212.203: icmp_seq=6 ttl=49 time=155.732 ms
+64 bytes from 192.155.212.203: icmp_seq=7 ttl=49 time=156.017 ms
+64 bytes from 192.155.212.203: icmp_seq=8 ttl=49 time=154.711 ms
+64 bytes from 192.155.212.203: icmp_seq=9 ttl=49 time=153.268 ms
+
+--- whatsapp.com ping statistics ---
+10 packets transmitted, 10 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 149.718/168.900/265.701/33.468 ms
+
+====================
+
+PING google.co.id (216.58.198.163): 56 data bytes
+64 bytes from 216.58.198.163: icmp_seq=0 ttl=52 time=25.664 ms
+64 bytes from 216.58.198.163: icmp_seq=1 ttl=52 time=25.972 ms
+64 bytes from 216.58.198.163: icmp_seq=2 ttl=52 time=28.926 ms
+64 bytes from 216.58.198.163: icmp_seq=3 ttl=52 time=23.566 ms
+64 bytes from 216.58.198.163: icmp_seq=4 ttl=52 time=135.919 ms
+64 bytes from 216.58.198.163: icmp_seq=5 ttl=52 time=28.564 ms
+64 bytes from 216.58.198.163: icmp_seq=6 ttl=52 time=101.210 ms
+64 bytes from 216.58.198.163: icmp_seq=7 ttl=52 time=25.951 ms
+64 bytes from 216.58.198.163: icmp_seq=8 ttl=52 time=62.788 ms
+64 bytes from 216.58.198.163: icmp_seq=9 ttl=52 time=25.520 ms
+
+--- google.co.id ping statistics ---
+10 packets transmitted, 10 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 23.566/48.408/135.919/37.540 ms
+
+====================
+
+PING google.com.tr (216.58.208.163): 56 data bytes
+64 bytes from 216.58.208.163: icmp_seq=0 ttl=51 time=30.609 ms
+64 bytes from 216.58.208.163: icmp_seq=1 ttl=51 time=22.919 ms
+64 bytes from 216.58.208.163: icmp_seq=2 ttl=51 time=18.329 ms
+64 bytes from 216.58.208.163: icmp_seq=3 ttl=51 time=19.653 ms
+64 bytes from 216.58.208.163: icmp_seq=4 ttl=51 time=24.803 ms
+64 bytes from 216.58.208.163: icmp_seq=5 ttl=51 time=22.649 ms
+64 bytes from 216.58.208.163: icmp_seq=6 ttl=51 time=21.556 ms
+64 bytes from 216.58.208.163: icmp_seq=7 ttl=51 time=39.157 ms
+64 bytes from 216.58.208.163: icmp_seq=8 ttl=51 time=26.878 ms
+64 bytes from 216.58.208.163: icmp_seq=9 ttl=51 time=43.181 ms
+
+--- google.com.tr ping statistics ---
+10 packets transmitted, 10 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 18.329/26.973/43.181/7.886 ms
+
+====================
+
+PING fc2.com (52.41.147.165): 56 data bytes
+64 bytes from 52.41.147.165: icmp_seq=0 ttl=31 time=197.028 ms
+64 bytes from 52.41.147.165: icmp_seq=1 ttl=31 time=220.728 ms
+64 bytes from 52.41.147.165: icmp_seq=2 ttl=31 time=204.427 ms
+64 bytes from 52.41.147.165: icmp_seq=3 ttl=31 time=194.313 ms
+64 bytes from 52.41.147.165: icmp_seq=4 ttl=31 time=198.191 ms
+64 bytes from 52.41.147.165: icmp_seq=5 ttl=31 time=204.949 ms
+64 bytes from 52.41.147.165: icmp_seq=6 ttl=31 time=197.039 ms
+64 bytes from 52.41.147.165: icmp_seq=7 ttl=31 time=249.615 ms
+64 bytes from 52.41.147.165: icmp_seq=8 ttl=31 time=202.199 ms
+64 bytes from 52.41.147.165: icmp_seq=9 ttl=31 time=200.724 ms
+
+--- fc2.com ping statistics ---
+10 packets transmitted, 10 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 194.313/206.921/249.615/15.858 ms
+
+====================
+
+PING google.com.au (216.58.204.3): 56 data bytes
+64 bytes from 216.58.204.3: icmp_seq=0 ttl=51 time=23.766 ms
+64 bytes from 216.58.204.3: icmp_seq=1 ttl=51 time=22.580 ms
+64 bytes from 216.58.204.3: icmp_seq=2 ttl=51 time=27.315 ms
+64 bytes from 216.58.204.3: icmp_seq=3 ttl=51 time=27.310 ms
+64 bytes from 216.58.204.3: icmp_seq=4 ttl=51 time=32.280 ms
+64 bytes from 216.58.204.3: icmp_seq=5 ttl=51 time=22.081 ms
+64 bytes from 216.58.204.3: icmp_seq=6 ttl=51 time=24.687 ms
+64 bytes from 216.58.204.3: icmp_seq=7 ttl=51 time=27.515 ms
+64 bytes from 216.58.204.3: icmp_seq=8 ttl=51 time=27.108 ms
+64 bytes from 216.58.204.3: icmp_seq=9 ttl=51 time=24.257 ms
+
+--- google.com.au ping statistics ---
+10 packets transmitted, 10 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 22.081/25.890/32.280/2.883 ms
+
+====================
+
+PING dropbox.com (108.160.172.206): 56 data bytes
+64 bytes from 108.160.172.206: icmp_seq=0 ttl=52 time=166.780 ms
+64 bytes from 108.160.172.206: icmp_seq=1 ttl=52 time=166.965 ms
+64 bytes from 108.160.172.206: icmp_seq=2 ttl=52 time=168.759 ms
+64 bytes from 108.160.172.206: icmp_seq=3 ttl=52 time=175.992 ms
+64 bytes from 108.160.172.206: icmp_seq=4 ttl=52 time=163.159 ms
+64 bytes from 108.160.172.206: icmp_seq=5 ttl=52 time=170.992 ms
+64 bytes from 108.160.172.206: icmp_seq=6 ttl=52 time=170.336 ms
+64 bytes from 108.160.172.206: icmp_seq=7 ttl=52 time=177.110 ms
+64 bytes from 108.160.172.206: icmp_seq=8 ttl=52 time=178.941 ms
+64 bytes from 108.160.172.206: icmp_seq=9 ttl=52 time=182.500 ms
+
+--- dropbox.com ping statistics ---
+10 packets transmitted, 10 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 163.159/172.153/182.500/5.876 ms
+
+====================
+
+PING youku.com (43.250.12.42): 56 data bytes
+64 bytes from 43.250.12.42: icmp_seq=0 ttl=232 time=308.984 ms
+64 bytes from 43.250.12.42: icmp_seq=1 ttl=232 time=278.752 ms
+64 bytes from 43.250.12.42: icmp_seq=2 ttl=232 time=281.612 ms
+64 bytes from 43.250.12.42: icmp_seq=3 ttl=232 time=273.969 ms
+64 bytes from 43.250.12.42: icmp_seq=4 ttl=232 time=294.299 ms
+64 bytes from 43.250.12.42: icmp_seq=5 ttl=232 time=316.716 ms
+64 bytes from 43.250.12.42: icmp_seq=6 ttl=232 time=337.207 ms
+64 bytes from 43.250.12.42: icmp_seq=7 ttl=232 time=355.887 ms
+64 bytes from 43.250.12.42: icmp_seq=8 ttl=232 time=377.977 ms
+64 bytes from 43.250.12.42: icmp_seq=9 ttl=232 time=273.659 ms
+
+--- youku.com ping statistics ---
+10 packets transmitted, 10 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 273.659/309.906/377.977/34.872 ms
+
+====================
+
+PING google.com.tw (216.58.201.3): 56 data bytes
+64 bytes from 216.58.201.3: icmp_seq=0 ttl=51 time=24.827 ms
+64 bytes from 216.58.201.3: icmp_seq=1 ttl=51 time=22.562 ms
+64 bytes from 216.58.201.3: icmp_seq=2 ttl=51 time=25.573 ms
+64 bytes from 216.58.201.3: icmp_seq=3 ttl=51 time=20.429 ms
+64 bytes from 216.58.201.3: icmp_seq=4 ttl=51 time=24.196 ms
+64 bytes from 216.58.201.3: icmp_seq=5 ttl=51 time=23.222 ms
+64 bytes from 216.58.201.3: icmp_seq=6 ttl=51 time=22.517 ms
+64 bytes from 216.58.201.3: icmp_seq=7 ttl=51 time=25.441 ms
+64 bytes from 216.58.201.3: icmp_seq=8 ttl=51 time=22.479 ms
+64 bytes from 216.58.201.3: icmp_seq=9 ttl=51 time=24.852 ms
+
+--- google.com.tw ping statistics ---
+10 packets transmitted, 10 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 20.429/23.610/25.573/1.563 ms
+
+====================
+
+PING adobe.com (192.150.16.117): 56 data bytes
+64 bytes from 192.150.16.117: icmp_seq=0 ttl=241 time=136.733 ms
+64 bytes from 192.150.16.117: icmp_seq=1 ttl=241 time=138.443 ms
+64 bytes from 192.150.16.117: icmp_seq=2 ttl=241 time=133.301 ms
+64 bytes from 192.150.16.117: icmp_seq=3 ttl=241 time=158.117 ms
+64 bytes from 192.150.16.117: icmp_seq=4 ttl=241 time=133.603 ms
+64 bytes from 192.150.16.117: icmp_seq=5 ttl=241 time=136.946 ms
+64 bytes from 192.150.16.117: icmp_seq=6 ttl=241 time=134.648 ms
+64 bytes from 192.150.16.117: icmp_seq=7 ttl=241 time=134.317 ms
+64 bytes from 192.150.16.117: icmp_seq=8 ttl=241 time=134.048 ms
+64 bytes from 192.150.16.117: icmp_seq=9 ttl=241 time=133.979 ms
+
+--- adobe.com ping statistics ---
+10 packets transmitted, 10 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 133.301/137.414/158.117/7.086 ms
+
+====================
+
+PING xinhuanet.com (202.108.119.194): 56 data bytes
+Request timeout for icmp_seq 0
+Request timeout for icmp_seq 1
+Request timeout for icmp_seq 2
+Request timeout for icmp_seq 3
+Request timeout for icmp_seq 4
+Request timeout for icmp_seq 5
+Request timeout for icmp_seq 6
+Request timeout for icmp_seq 7
+Request timeout for icmp_seq 8
+
+--- xinhuanet.com ping statistics ---
+10 packets transmitted, 0 packets received, 100.0% packet loss
+
+====================
+
+PING microsoftonline.com (64.4.6.100): 56 data bytes
+Request timeout for icmp_seq 0
+Request timeout for icmp_seq 1
+Request timeout for icmp_seq 2
+Request timeout for icmp_seq 3
+Request timeout for icmp_seq 4
+Request timeout for icmp_seq 5
+Request timeout for icmp_seq 6
+Request timeout for icmp_seq 7
+Request timeout for icmp_seq 8
+
+--- microsoftonline.com ping statistics ---
+10 packets transmitted, 0 packets received, 100.0% packet loss
+
+====================
+
+ping: cannot resolve googleusercontent.com: Unknown host
+
+====================
+
+PING xhamster.com (88.208.18.30): 56 data bytes
+64 bytes from 88.208.18.30: icmp_seq=0 ttl=52 time=39.308 ms
+64 bytes from 88.208.18.30: icmp_seq=1 ttl=52 time=38.137 ms
+64 bytes from 88.208.18.30: icmp_seq=2 ttl=52 time=40.673 ms
+64 bytes from 88.208.18.30: icmp_seq=3 ttl=52 time=46.430 ms
+64 bytes from 88.208.18.30: icmp_seq=4 ttl=52 time=38.614 ms
+64 bytes from 88.208.18.30: icmp_seq=5 ttl=52 time=40.997 ms
+64 bytes from 88.208.18.30: icmp_seq=6 ttl=52 time=36.114 ms
+64 bytes from 88.208.18.30: icmp_seq=7 ttl=52 time=37.821 ms
+64 bytes from 88.208.18.30: icmp_seq=8 ttl=52 time=39.790 ms
+64 bytes from 88.208.18.30: icmp_seq=9 ttl=52 time=41.164 ms
+
+--- xhamster.com ping statistics ---
+10 packets transmitted, 10 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 36.114/39.905/46.430/2.642 ms
+
+====================
+
+PING google.pl (216.58.198.163): 56 data bytes
+64 bytes from 216.58.198.163: icmp_seq=0 ttl=52 time=20.575 ms
+64 bytes from 216.58.198.163: icmp_seq=1 ttl=52 time=20.754 ms
+64 bytes from 216.58.198.163: icmp_seq=2 ttl=52 time=39.750 ms
+64 bytes from 216.58.198.163: icmp_seq=3 ttl=52 time=23.760 ms
+64 bytes from 216.58.198.163: icmp_seq=4 ttl=52 time=23.686 ms
+64 bytes from 216.58.198.163: icmp_seq=5 ttl=52 time=22.940 ms
+64 bytes from 216.58.198.163: icmp_seq=6 ttl=52 time=25.581 ms
+64 bytes from 216.58.198.163: icmp_seq=7 ttl=52 time=25.263 ms
+64 bytes from 216.58.198.163: icmp_seq=8 ttl=52 time=24.911 ms
+64 bytes from 216.58.198.163: icmp_seq=9 ttl=52 time=23.597 ms
+
+--- google.pl ping statistics ---
+10 packets transmitted, 10 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 20.575/25.082/39.750/5.148 ms
+
+====================
+
+PING tianya.cn (124.225.65.154): 56 data bytes
+64 bytes from 124.225.65.154: icmp_seq=0 ttl=42 time=436.140 ms
+64 bytes from 124.225.65.154: icmp_seq=1 ttl=42 time=398.589 ms
+64 bytes from 124.225.65.154: icmp_seq=2 ttl=42 time=370.623 ms
+64 bytes from 124.225.65.154: icmp_seq=3 ttl=42 time=398.752 ms
+64 bytes from 124.225.65.154: icmp_seq=4 ttl=42 time=369.163 ms
+64 bytes from 124.225.65.154: icmp_seq=5 ttl=42 time=393.265 ms
+64 bytes from 124.225.65.154: icmp_seq=6 ttl=42 time=368.185 ms
+64 bytes from 124.225.65.154: icmp_seq=7 ttl=42 time=488.083 ms
+64 bytes from 124.225.65.154: icmp_seq=8 ttl=42 time=366.172 ms
+64 bytes from 124.225.65.154: icmp_seq=9 ttl=42 time=370.805 ms
+
+--- tianya.cn ping statistics ---
+10 packets transmitted, 10 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 366.172/395.978/488.083/37.114 ms
+
+====================
+
+PING cnn.com (151.101.0.73): 56 data bytes
+64 bytes from 151.101.0.73: icmp_seq=0 ttl=52 time=39.394 ms
+64 bytes from 151.101.0.73: icmp_seq=1 ttl=52 time=22.850 ms
+64 bytes from 151.101.0.73: icmp_seq=2 ttl=52 time=20.065 ms
+64 bytes from 151.101.0.73: icmp_seq=3 ttl=52 time=21.416 ms
+64 bytes from 151.101.0.73: icmp_seq=4 ttl=52 time=27.708 ms
+64 bytes from 151.101.0.73: icmp_seq=5 ttl=52 time=21.005 ms
+64 bytes from 151.101.0.73: icmp_seq=6 ttl=52 time=19.897 ms
+64 bytes from 151.101.0.73: icmp_seq=7 ttl=52 time=21.731 ms
+64 bytes from 151.101.0.73: icmp_seq=8 ttl=52 time=18.360 ms
+64 bytes from 151.101.0.73: icmp_seq=9 ttl=52 time=21.479 ms
+
+--- cnn.com ping statistics ---
+10 packets transmitted, 10 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 18.360/23.390/39.394/5.828 ms
+
+====================
+
+PING xvideos.com (141.0.174.35): 56 data bytes
+Request timeout for icmp_seq 0
+Request timeout for icmp_seq 1
+Request timeout for icmp_seq 2
+Request timeout for icmp_seq 3
+Request timeout for icmp_seq 4
+Request timeout for icmp_seq 5
+Request timeout for icmp_seq 6
+Request timeout for icmp_seq 7
+Request timeout for icmp_seq 8
+
+--- xvideos.com ping statistics ---
+10 packets transmitted, 0 packets received, 100.0% packet loss
+
+====================
+
+PING twitch.tv (50.112.196.159): 56 data bytes
+Request timeout for icmp_seq 0
+Request timeout for icmp_seq 1
+Request timeout for icmp_seq 2
+Request timeout for icmp_seq 3
+Request timeout for icmp_seq 4
+Request timeout for icmp_seq 5
+Request timeout for icmp_seq 6
+Request timeout for icmp_seq 7
+Request timeout for icmp_seq 8
+
+--- twitch.tv ping statistics ---
+10 packets transmitted, 0 packets received, 100.0% packet loss
+
+====================
+
+PING amazon.de (178.236.7.219): 56 data bytes
+Request timeout for icmp_seq 0
+Request timeout for icmp_seq 1
+Request timeout for icmp_seq 2
+Request timeout for icmp_seq 3
+Request timeout for icmp_seq 4
+Request timeout for icmp_seq 5
+Request timeout for icmp_seq 6
+Request timeout for icmp_seq 7
+Request timeout for icmp_seq 8
+
+--- amazon.de ping statistics ---
+10 packets transmitted, 0 packets received, 100.0% packet loss
+
+====================
+
+PING pixnet.net (103.23.108.107): 56 data bytes
+64 bytes from 103.23.108.107: icmp_seq=0 ttl=238 time=315.959 ms
+64 bytes from 103.23.108.107: icmp_seq=1 ttl=238 time=381.731 ms
+64 bytes from 103.23.108.107: icmp_seq=2 ttl=238 time=321.232 ms
+64 bytes from 103.23.108.107: icmp_seq=3 ttl=238 time=317.441 ms
+64 bytes from 103.23.108.107: icmp_seq=4 ttl=238 time=324.978 ms
+64 bytes from 103.23.108.107: icmp_seq=5 ttl=238 time=414.164 ms
+64 bytes from 103.23.108.107: icmp_seq=6 ttl=238 time=325.445 ms
+64 bytes from 103.23.108.107: icmp_seq=7 ttl=238 time=406.521 ms
+64 bytes from 103.23.108.107: icmp_seq=8 ttl=238 time=427.328 ms
+64 bytes from 103.23.108.107: icmp_seq=9 ttl=238 time=449.256 ms
+
+--- pixnet.net ping statistics ---
+10 packets transmitted, 10 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 315.959/368.406/449.256/50.038 ms
+
+====================
+
+PING wikia.com (23.235.37.194): 56 data bytes
+64 bytes from 23.235.37.194: icmp_seq=0 ttl=52 time=18.178 ms
+64 bytes from 23.235.37.194: icmp_seq=1 ttl=52 time=18.543 ms
+64 bytes from 23.235.37.194: icmp_seq=2 ttl=52 time=20.013 ms
+64 bytes from 23.235.37.194: icmp_seq=3 ttl=52 time=17.739 ms
+64 bytes from 23.235.37.194: icmp_seq=4 ttl=52 time=17.919 ms
+64 bytes from 23.235.37.194: icmp_seq=5 ttl=52 time=15.755 ms
+64 bytes from 23.235.37.194: icmp_seq=6 ttl=52 time=25.670 ms
+64 bytes from 23.235.37.194: icmp_seq=7 ttl=52 time=18.819 ms
+64 bytes from 23.235.37.194: icmp_seq=8 ttl=52 time=21.228 ms
+64 bytes from 23.235.37.194: icmp_seq=9 ttl=52 time=19.367 ms
+
+--- wikia.com ping statistics ---
+10 packets transmitted, 10 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 15.755/19.323/25.670/2.525 ms
+
+====================
+
+PING ccna.cc00764-s10-01.ccgslb.com (106.48.12.46): 56 data bytes
+64 bytes from 106.48.12.46: icmp_seq=0 ttl=50 time=39.331 ms
+64 bytes from 106.48.12.46: icmp_seq=1 ttl=50 time=50.600 ms
+64 bytes from 106.48.12.46: icmp_seq=2 ttl=50 time=40.756 ms
+64 bytes from 106.48.12.46: icmp_seq=3 ttl=50 time=36.815 ms
+64 bytes from 106.48.12.46: icmp_seq=4 ttl=50 time=40.658 ms
+64 bytes from 106.48.12.46: icmp_seq=5 ttl=50 time=362.131 ms
+64 bytes from 106.48.12.46: icmp_seq=6 ttl=50 time=37.397 ms
+64 bytes from 106.48.12.46: icmp_seq=7 ttl=50 time=106.703 ms
+64 bytes from 106.48.12.46: icmp_seq=8 ttl=50 time=38.214 ms
+64 bytes from 106.48.12.46: icmp_seq=9 ttl=50 time=37.029 ms
+
+--- ccna.cc00764-s10-01.ccgslb.com ping statistics ---
+10 packets transmitted, 10 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 36.815/78.963/362.131/96.529 ms
+
+====================
+
+PING adf.ly (104.20.1.4): 56 data bytes
+64 bytes from 104.20.1.4: icmp_seq=0 ttl=57 time=14.580 ms
+64 bytes from 104.20.1.4: icmp_seq=1 ttl=57 time=18.629 ms
+64 bytes from 104.20.1.4: icmp_seq=2 ttl=57 time=19.255 ms
+64 bytes from 104.20.1.4: icmp_seq=3 ttl=57 time=33.146 ms
+64 bytes from 104.20.1.4: icmp_seq=4 ttl=57 time=18.048 ms
+64 bytes from 104.20.1.4: icmp_seq=5 ttl=57 time=17.092 ms
+64 bytes from 104.20.1.4: icmp_seq=6 ttl=57 time=23.062 ms
+64 bytes from 104.20.1.4: icmp_seq=7 ttl=57 time=18.515 ms
+64 bytes from 104.20.1.4: icmp_seq=8 ttl=57 time=29.701 ms
+64 bytes from 104.20.1.4: icmp_seq=9 ttl=57 time=19.402 ms
+
+--- adf.ly ping statistics ---
+10 packets transmitted, 10 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 14.580/21.143/33.146/5.567 ms
+
+====================
+
+PING alibaba.com (198.11.132.23): 56 data bytes
+64 bytes from 198.11.132.23: icmp_seq=0 ttl=25 time=196.464 ms
+64 bytes from 198.11.132.23: icmp_seq=1 ttl=25 time=202.233 ms
+64 bytes from 198.11.132.23: icmp_seq=2 ttl=25 time=195.077 ms
+64 bytes from 198.11.132.23: icmp_seq=3 ttl=25 time=191.721 ms
+64 bytes from 198.11.132.23: icmp_seq=4 ttl=25 time=198.688 ms
+64 bytes from 198.11.132.23: icmp_seq=5 ttl=25 time=195.415 ms
+64 bytes from 198.11.132.23: icmp_seq=6 ttl=25 time=355.598 ms
+64 bytes from 198.11.132.23: icmp_seq=7 ttl=25 time=198.591 ms
+64 bytes from 198.11.132.23: icmp_seq=8 ttl=25 time=222.131 ms
+64 bytes from 198.11.132.23: icmp_seq=9 ttl=25 time=195.439 ms
+
+--- alibaba.com ping statistics ---
+10 packets transmitted, 10 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 191.721/215.136/355.598/47.503 ms
+
+====================
+
+PING coccoc.com (123.30.175.29): 56 data bytes
+64 bytes from 123.30.175.29: icmp_seq=0 ttl=48 time=318.379 ms
+64 bytes from 123.30.175.29: icmp_seq=1 ttl=48 time=312.144 ms
+64 bytes from 123.30.175.29: icmp_seq=2 ttl=48 time=417.736 ms
+64 bytes from 123.30.175.29: icmp_seq=3 ttl=48 time=314.438 ms
+64 bytes from 123.30.175.29: icmp_seq=4 ttl=48 time=372.039 ms
+64 bytes from 123.30.175.29: icmp_seq=5 ttl=48 time=316.743 ms
+64 bytes from 123.30.175.29: icmp_seq=6 ttl=48 time=321.662 ms
+64 bytes from 123.30.175.29: icmp_seq=7 ttl=48 time=386.930 ms
+64 bytes from 123.30.175.29: icmp_seq=8 ttl=48 time=405.865 ms
+64 bytes from 123.30.175.29: icmp_seq=9 ttl=48 time=378.856 ms
+
+--- coccoc.com ping statistics ---
+10 packets transmitted, 10 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 312.144/354.479/417.736/39.746 ms
+
+====================
+
+PING craigslist.org (208.82.237.129): 56 data bytes
+64 bytes from 208.82.237.129: icmp_seq=0 ttl=48 time=120.941 ms
+64 bytes from 208.82.237.129: icmp_seq=1 ttl=48 time=113.788 ms
+64 bytes from 208.82.237.129: icmp_seq=2 ttl=48 time=124.267 ms
+64 bytes from 208.82.237.129: icmp_seq=3 ttl=48 time=113.669 ms
+64 bytes from 208.82.237.129: icmp_seq=4 ttl=48 time=114.768 ms
+64 bytes from 208.82.237.129: icmp_seq=5 ttl=48 time=117.807 ms
+64 bytes from 208.82.237.129: icmp_seq=6 ttl=48 time=120.208 ms
+64 bytes from 208.82.237.129: icmp_seq=7 ttl=48 time=113.016 ms
+64 bytes from 208.82.237.129: icmp_seq=8 ttl=48 time=209.632 ms
+64 bytes from 208.82.237.129: icmp_seq=9 ttl=48 time=116.238 ms
+
+--- craigslist.org ping statistics ---
+10 packets transmitted, 10 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 113.016/126.433/209.632/27.952 ms
+
+====================
+
+PING google.com.eg (216.58.208.163): 56 data bytes
+64 bytes from 216.58.208.163: icmp_seq=0 ttl=51 time=36.026 ms
+64 bytes from 216.58.208.163: icmp_seq=1 ttl=51 time=30.961 ms
+64 bytes from 216.58.208.163: icmp_seq=2 ttl=51 time=60.158 ms
+64 bytes from 216.58.208.163: icmp_seq=3 ttl=51 time=22.044 ms
+64 bytes from 216.58.208.163: icmp_seq=4 ttl=51 time=24.276 ms
+64 bytes from 216.58.208.163: icmp_seq=5 ttl=51 time=25.985 ms
+64 bytes from 216.58.208.163: icmp_seq=6 ttl=51 time=27.469 ms
+64 bytes from 216.58.208.163: icmp_seq=7 ttl=51 time=22.291 ms
+64 bytes from 216.58.208.163: icmp_seq=8 ttl=51 time=20.634 ms
+64 bytes from 216.58.208.163: icmp_seq=9 ttl=51 time=19.104 ms
+
+--- google.com.eg ping statistics ---
+10 packets transmitted, 10 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 19.104/28.895/60.158/11.485 ms
+
+====================
+
+PING quora.com (52.44.51.92): 56 data bytes
+Request timeout for icmp_seq 0
+Request timeout for icmp_seq 1
+Request timeout for icmp_seq 2
+Request timeout for icmp_seq 3
+Request timeout for icmp_seq 4
+Request timeout for icmp_seq 5
+Request timeout for icmp_seq 6
+Request timeout for icmp_seq 7
+Request timeout for icmp_seq 8
+
+--- quora.com ping statistics ---
+10 packets transmitted, 0 packets received, 100.0% packet loss
+
+====================
+
+PING diply.com (23.209.198.235): 56 data bytes
+64 bytes from 23.209.198.235: icmp_seq=0 ttl=56 time=24.691 ms
+64 bytes from 23.209.198.235: icmp_seq=1 ttl=56 time=25.001 ms
+64 bytes from 23.209.198.235: icmp_seq=2 ttl=56 time=24.800 ms
+64 bytes from 23.209.198.235: icmp_seq=3 ttl=56 time=24.595 ms
+64 bytes from 23.209.198.235: icmp_seq=4 ttl=56 time=30.292 ms
+64 bytes from 23.209.198.235: icmp_seq=5 ttl=56 time=28.636 ms
+64 bytes from 23.209.198.235: icmp_seq=6 ttl=56 time=114.613 ms
+64 bytes from 23.209.198.235: icmp_seq=7 ttl=56 time=24.081 ms
+64 bytes from 23.209.198.235: icmp_seq=8 ttl=56 time=25.542 ms
+64 bytes from 23.209.198.235: icmp_seq=9 ttl=56 time=31.173 ms
+
+--- diply.com ping statistics ---
+10 packets transmitted, 10 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 24.081/35.342/114.613/26.536 ms
+
+====================
+
+PING google.com.ar (216.58.201.3): 56 data bytes
+64 bytes from 216.58.201.3: icmp_seq=0 ttl=51 time=22.226 ms
+64 bytes from 216.58.201.3: icmp_seq=1 ttl=51 time=25.367 ms
+64 bytes from 216.58.201.3: icmp_seq=2 ttl=51 time=19.934 ms
+64 bytes from 216.58.201.3: icmp_seq=3 ttl=51 time=23.363 ms
+64 bytes from 216.58.201.3: icmp_seq=4 ttl=51 time=24.603 ms
+64 bytes from 216.58.201.3: icmp_seq=5 ttl=51 time=28.165 ms
+64 bytes from 216.58.201.3: icmp_seq=6 ttl=51 time=24.897 ms
+64 bytes from 216.58.201.3: icmp_seq=7 ttl=51 time=24.058 ms
+64 bytes from 216.58.201.3: icmp_seq=8 ttl=51 time=26.660 ms
+64 bytes from 216.58.201.3: icmp_seq=9 ttl=51 time=25.119 ms
+
+--- google.com.ar ping statistics ---
+10 packets transmitted, 10 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 19.934/24.439/28.165/2.165 ms
+
+====================
+
+PING so.com (42.236.9.70): 56 data bytes
+64 bytes from 42.236.9.70: icmp_seq=0 ttl=49 time=211.180 ms
+64 bytes from 42.236.9.70: icmp_seq=1 ttl=49 time=265.790 ms
+64 bytes from 42.236.9.70: icmp_seq=2 ttl=49 time=287.330 ms
+64 bytes from 42.236.9.70: icmp_seq=3 ttl=49 time=205.081 ms
+64 bytes from 42.236.9.70: icmp_seq=4 ttl=49 time=205.062 ms
+64 bytes from 42.236.9.70: icmp_seq=5 ttl=49 time=251.079 ms
+64 bytes from 42.236.9.70: icmp_seq=6 ttl=49 time=274.428 ms
+64 bytes from 42.236.9.70: icmp_seq=7 ttl=49 time=296.439 ms
+64 bytes from 42.236.9.70: icmp_seq=8 ttl=49 time=317.502 ms
+64 bytes from 42.236.9.70: icmp_seq=9 ttl=49 time=234.040 ms
+
+--- so.com ping statistics ---
+10 packets transmitted, 10 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 205.062/254.793/317.502/38.109 ms
+
+====================
+
+PING bbc.com (212.58.244.23): 56 data bytes
+64 bytes from 212.58.244.23: icmp_seq=0 ttl=52 time=26.369 ms
+64 bytes from 212.58.244.23: icmp_seq=1 ttl=52 time=29.753 ms
+64 bytes from 212.58.244.23: icmp_seq=2 ttl=52 time=28.496 ms
+64 bytes from 212.58.244.23: icmp_seq=3 ttl=52 time=33.821 ms
+64 bytes from 212.58.244.23: icmp_seq=4 ttl=52 time=25.719 ms
+64 bytes from 212.58.244.23: icmp_seq=5 ttl=52 time=29.339 ms
+64 bytes from 212.58.244.23: icmp_seq=6 ttl=52 time=26.272 ms
+64 bytes from 212.58.244.23: icmp_seq=7 ttl=52 time=24.674 ms
+64 bytes from 212.58.244.23: icmp_seq=8 ttl=52 time=30.708 ms
+64 bytes from 212.58.244.23: icmp_seq=9 ttl=52 time=24.716 ms
+
+--- bbc.com ping statistics ---
+10 packets transmitted, 10 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 24.674/27.987/33.821/2.811 ms
+
+====================
+
+PING google.com.sa (216.58.212.99): 56 data bytes
+64 bytes from 216.58.212.99: icmp_seq=0 ttl=53 time=24.087 ms
+64 bytes from 216.58.212.99: icmp_seq=1 ttl=53 time=26.700 ms
+64 bytes from 216.58.212.99: icmp_seq=2 ttl=53 time=24.223 ms
+64 bytes from 216.58.212.99: icmp_seq=3 ttl=53 time=68.980 ms
+64 bytes from 216.58.212.99: icmp_seq=4 ttl=53 time=20.308 ms
+64 bytes from 216.58.212.99: icmp_seq=5 ttl=53 time=92.063 ms
+64 bytes from 216.58.212.99: icmp_seq=6 ttl=53 time=24.373 ms
+64 bytes from 216.58.212.99: icmp_seq=7 ttl=53 time=63.916 ms
+64 bytes from 216.58.212.99: icmp_seq=8 ttl=53 time=23.940 ms
+64 bytes from 216.58.212.99: icmp_seq=9 ttl=53 time=22.395 ms
+
+--- google.com.sa ping statistics ---
+10 packets transmitted, 10 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 20.308/39.098/92.063/24.481 ms
+
+====================
+
+PING www.360.com (106.120.167.67): 56 data bytes
+64 bytes from 106.120.167.67: icmp_seq=0 ttl=43 time=328.370 ms
+64 bytes from 106.120.167.67: icmp_seq=1 ttl=43 time=326.839 ms
+64 bytes from 106.120.167.67: icmp_seq=2 ttl=43 time=394.415 ms
+64 bytes from 106.120.167.67: icmp_seq=3 ttl=43 time=331.310 ms
+64 bytes from 106.120.167.67: icmp_seq=4 ttl=43 time=438.234 ms
+64 bytes from 106.120.167.67: icmp_seq=5 ttl=43 time=333.357 ms
+64 bytes from 106.120.167.67: icmp_seq=6 ttl=43 time=323.826 ms
+64 bytes from 106.120.167.67: icmp_seq=7 ttl=43 time=329.419 ms
+64 bytes from 106.120.167.67: icmp_seq=8 ttl=43 time=417.973 ms
+64 bytes from 106.120.167.67: icmp_seq=9 ttl=43 time=436.585 ms
+
+--- www.360.com ping statistics ---
+10 packets transmitted, 10 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 323.826/366.033/438.234/46.951 ms
+
+====================
+
+PING google.com (172.217.23.14): 56 data bytes
+64 bytes from 172.217.23.14: icmp_seq=0 ttl=52 time=5.350 ms
+64 bytes from 172.217.23.14: icmp_seq=1 ttl=52 time=6.111 ms
+64 bytes from 172.217.23.14: icmp_seq=2 ttl=52 time=37.013 ms
+64 bytes from 172.217.23.14: icmp_seq=3 ttl=52 time=5.940 ms
+64 bytes from 172.217.23.14: icmp_seq=4 ttl=52 time=34.944 ms
+64 bytes from 172.217.23.14: icmp_seq=5 ttl=52 time=80.728 ms
+64 bytes from 172.217.23.14: icmp_seq=6 ttl=52 time=7.388 ms
+64 bytes from 172.217.23.14: icmp_seq=7 ttl=52 time=15.908 ms
+64 bytes from 172.217.23.14: icmp_seq=8 ttl=52 time=5.997 ms
+64 bytes from 172.217.23.14: icmp_seq=9 ttl=52 time=5.483 ms
+
+--- google.com ping statistics ---
+10 packets transmitted, 10 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 5.350/20.486/80.728/23.208 ms
+
+====================
+
+PING youtube.com (172.217.23.14): 56 data bytes
+64 bytes from 172.217.23.14: icmp_seq=0 ttl=52 time=5.304 ms
+64 bytes from 172.217.23.14: icmp_seq=1 ttl=52 time=5.510 ms
+64 bytes from 172.217.23.14: icmp_seq=2 ttl=52 time=6.146 ms
+64 bytes from 172.217.23.14: icmp_seq=3 ttl=52 time=31.964 ms
+64 bytes from 172.217.23.14: icmp_seq=4 ttl=52 time=39.757 ms
+64 bytes from 172.217.23.14: icmp_seq=5 ttl=52 time=87.749 ms
+64 bytes from 172.217.23.14: icmp_seq=6 ttl=52 time=132.408 ms
+64 bytes from 172.217.23.14: icmp_seq=7 ttl=52 time=201.866 ms
+64 bytes from 172.217.23.14: icmp_seq=8 ttl=52 time=225.387 ms
+64 bytes from 172.217.23.14: icmp_seq=9 ttl=52 time=5.692 ms
+
+--- youtube.com ping statistics ---
+10 packets transmitted, 10 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 5.304/74.178/225.387/80.304 ms
+
+====================
+
+PING facebook.com (31.13.90.36): 56 data bytes
+64 bytes from 31.13.90.36: icmp_seq=0 ttl=83 time=5.449 ms
+64 bytes from 31.13.90.36: icmp_seq=1 ttl=83 time=5.108 ms
+64 bytes from 31.13.90.36: icmp_seq=2 ttl=83 time=4.996 ms
+64 bytes from 31.13.90.36: icmp_seq=3 ttl=83 time=5.112 ms
+64 bytes from 31.13.90.36: icmp_seq=4 ttl=83 time=14.287 ms
+64 bytes from 31.13.90.36: icmp_seq=5 ttl=83 time=5.243 ms
+64 bytes from 31.13.90.36: icmp_seq=6 ttl=83 time=5.714 ms
+64 bytes from 31.13.90.36: icmp_seq=7 ttl=83 time=6.828 ms
+64 bytes from 31.13.90.36: icmp_seq=8 ttl=83 time=54.970 ms
+64 bytes from 31.13.90.36: icmp_seq=9 ttl=83 time=102.608 ms
+
+--- facebook.com ping statistics ---
+10 packets transmitted, 10 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 4.996/21.032/102.608/30.894 ms
+
+====================
+
+PING baidu.com (180.149.132.47): 56 data bytes
+64 bytes from 180.149.132.47: icmp_seq=0 ttl=48 time=233.672 ms
+64 bytes from 180.149.132.47: icmp_seq=1 ttl=48 time=247.391 ms
+64 bytes from 180.149.132.47: icmp_seq=2 ttl=48 time=198.346 ms
+64 bytes from 180.149.132.47: icmp_seq=3 ttl=48 time=176.480 ms
+64 bytes from 180.149.132.47: icmp_seq=4 ttl=48 time=194.508 ms
+64 bytes from 180.149.132.47: icmp_seq=5 ttl=48 time=217.728 ms
+64 bytes from 180.149.132.47: icmp_seq=6 ttl=48 time=263.488 ms
+64 bytes from 180.149.132.47: icmp_seq=7 ttl=48 time=305.567 ms
+64 bytes from 180.149.132.47: icmp_seq=8 ttl=48 time=387.419 ms
+64 bytes from 180.149.132.47: icmp_seq=9 ttl=48 time=403.091 ms
+
+--- baidu.com ping statistics ---
+10 packets transmitted, 10 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 176.480/262.769/403.091/75.118 ms
+
+====================
+
+PING wikipedia.org (91.198.174.192): 56 data bytes
+64 bytes from 91.198.174.192: icmp_seq=0 ttl=52 time=12.121 ms
+64 bytes from 91.198.174.192: icmp_seq=1 ttl=52 time=67.977 ms
+64 bytes from 91.198.174.192: icmp_seq=2 ttl=52 time=89.395 ms
+64 bytes from 91.198.174.192: icmp_seq=3 ttl=52 time=11.850 ms
+64 bytes from 91.198.174.192: icmp_seq=4 ttl=52 time=24.441 ms
+64 bytes from 91.198.174.192: icmp_seq=5 ttl=52 time=12.277 ms
+64 bytes from 91.198.174.192: icmp_seq=6 ttl=52 time=11.892 ms
+64 bytes from 91.198.174.192: icmp_seq=7 ttl=52 time=11.898 ms
+64 bytes from 91.198.174.192: icmp_seq=8 ttl=52 time=12.152 ms
+64 bytes from 91.198.174.192: icmp_seq=9 ttl=52 time=18.638 ms
+
+--- wikipedia.org ping statistics ---
+10 packets transmitted, 10 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 11.850/27.264/89.395/26.443 ms
+
+====================
+
