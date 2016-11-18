@@ -1,0 +1,101 @@
+Rank,Website,IPv6 address,Min,AVG,Max,StdDev
+1,google.com,2a00:1450:4009:80b::200e,9.132,15.221,22.459,3.975
+2,youtube.com,2a00:1450:4009:809::200e,8.699,16.934,25.109,5.06
+3,facebook.com,2a03:2880:f112:83:face:b00c,76.438,85.131,90.565,4.274
+4,baidu.com,ipv6 disables,ipv6 disabled,ipv6 disabled,ipv6 disabled,ipv6 disabled
+5,wikipedia.org,2620:0:862:ed1a,15.428,24.473,28.566,3.772
+6,yahoo.com,2001:4998:c:a06,152.572,157.495,163.82,3.108
+7,google.co.in,2a00:1450:4009:809::2003,5.411,16.558,26.165,6.58
+8,twitter.com,ipv6 disabled,ipv6 disabled,ipv6 disabled,ipv6 disabled,ipv6 disabled
+9,amazon.com,ipv6 disabled,ipv6 disabled,ipv6 disabled,ipv6 disabled,ipv6 disabled
+10,qq.com,ipv6 disabled,ipv6 disabled,ipv6 disabled,ipv6 disabled,ipv6 disabled
+11,google.co.jp,2a00:1450:4009:809::2003,10.221,16.634,22.807,3.333
+12,live.com,ipv6 disabled,ipv6 disabled,ipv6 disabled,ipv6 disabled,ipv6 disabled
+13,taobao.com,ipv6 disabled,ipv6 disabled,ipv6 disabled,ipv6 disabled,ipv6 disabled
+14,vk.com,2a00:bdc0:2:18:1::213:16,57.085,62.769,70.708,3.438
+15,instagram.com,ipv6 disabled,ipv6 disabled,ipv6 disabled,ipv6 disabled,ipv6 disabled
+16,linkedin.com,2620:109:c002::6cae:a0a,83.965,88.177,92.141,2.32
+17,hao123.com,ipv6 disabled,ipv6 disabled,ipv6 disabled,ipv6 disabled,ipv6 disabled
+18,sohu.com,ipv6 disabled,ipv6 disabled,ipv6 disabled,ipv6 disabled,ipv6 disabled
+19,sina.com.cn,ipv6 disabled,ipv6 disabled,ipv6 disabled,ipv6 disabled,ipv6 disabled
+20,360.cn,ipv6 disabled,ipv6 disabled,ipv6 disabled,ipv6 disabled,ipv6 disabled
+21,weibo.com,ipv6 disabled,ipv6 disabled,ipv6 disabled,ipv6 disabled,ipv6 disabled
+22,google.de,2a00:1450:4009:809::2003,8.883,14.782,23.654,4.297
+23,tmall.com,ipv6 disabled,ipv6 disabled,ipv6 disabled,ipv6 disabled,ipv6 disabled
+24,reddit.com,ipv6 disabled,ipv6 disabled,ipv6 disabled,ipv6 disabled,ipv6 disabled
+25,google.co.uk,2a00:1450:4009:80b::2003,6.637,17.158,25.559,5.272
+26,yahoo.co.jp,ipv6 disabled,ipv6 disabled,ipv6 disabled,ipv6 disabled,ipv6 disabled
+27,google.com.br,2a00:1450:4009:809::2003,10.369,15.128,23.109,3.707
+28,google.fr,2a00:1450:4009:809::2003,6.338,12.117,17.771,4.079
+29,yandex.ru,2a02:6b8:a::a,49.756,55.021,63.08,3.639
+30,google.ru,2a00:1450:4009:809::2003,6.092,12.103,19.158,3.746
+31,onclickads.net,ipv6 disabled,ipv6 disabled,ipv6 disabled,ipv6 disabled,ipv6 disabled
+32,soso.com,ipv6 disabled,ipv6 disabled,ipv6 disabled,ipv6 disabled,ipv6 disabled
+33,t.co,ipv6 disabled,ipv6 disabled,ipv6 disabled,ipv6 disabled,ipv6 disabled
+34,ebay.com,ipv6 disabled,ipv6 disabled,ipv6 disabled,ipv6 disabled,ipv6 disabled
+35,wordpress.com,ipv6 disabled,ipv6 disabled,ipv6 disabled,ipv6 disabled,ipv6 disabled
+36,bing.com,ipv6 disabled,ipv6 disabled,ipv6 disabled,ipv6 disabled,ipv6 disabled
+37,blogspot.com,2a00:1450:4009:809::2009,5.729,11.986,16.808,3.922
+38,google.it,2a00:1450:4009:809::2003,4.653,9.004,21.536,4.934
+39,tumblr.com,ipv6 disabled,ipv6 disabled,ipv6 disabled,ipv6 disabled,ipv6 disabled
+40,google.es,2a00:1450:4009:809::2003,5.018,11.821,21.773,5.553
+41,msn.com,ipv6 disabled,ipv6 disabled,ipv6 disabled,ipv6 disabled,ipv6 disabled
+42,stackoverflow.com,ipv6 disabled,ipv6 disabled,ipv6 disabled,ipv6 disabled,ipv6 disabled
+43,guangmingwang.xdwscache.ourwebpic.com,ipv6 disabled,ipv6 disabled,ipv6 disabled,ipv6 disabled,ipv6 disabled
+44,aliexpress.com,ipv6 disabled,ipv6 disabled,ipv6 disabled,ipv6 disabled,ipv6 disabled
+45,microsoft.com,ipv6 disabled,ipv6 disabled,ipv6 disabled,ipv6 disabled,ipv6 disabled
+46,apple.com,ipv6 disabled,ipv6 disabled,ipv6 disabled,ipv6 disabled,ipv6 disabled
+47,google.com.mx,2a00:1450:4009:809::2003,4.835,10.803,16.457,4.73
+48,netflix.com,2a01:578:3::364c:3c27,15.766,24.76,33.677,5.949
+49,pinterest.com,ipv6 disabled,ipv6 disabled,ipv6 disabled,ipv6 disabled,ipv6 disabled
+50,google.ca,2a00:1450:4009:809::2003,8.343,17.105,28.849,6.163
+51,imgur.com,ipv6 disabled,ipv6 disabled,ipv6 disabled,ipv6 disabled,ipv6 disabled
+52,paypal.com,ipv6 disabled,ipv6 disabled,ipv6 disabled,ipv6 disabled,ipv6 disabled
+53,imdb.com,ipv6 disabled,ipv6 disabled,ipv6 disabled,ipv6 disabled,ipv6 disabled
+54,mail.ru,2a00:1148:db00:0:b0b0::1,53.723,61.984,83.862,8.632
+55,google.com.hk,2a00:1450:4009:809::2003,6.334,13.769,22.275,5.114
+56,naver.com,ipv6 disabled,ipv6 disabled,ipv6 disabled,ipv6 disabled,ipv6 disabled
+57,popads.net,ipv6 disabled,ipv6 disabled,ipv6 disabled,ipv6 disabled,ipv6 disabled
+58,amazon.co.jp,ipv6 disabled,ipv6 disabled,ipv6 disabled,ipv6 disabled,ipv6 disabled
+59,pornhub.com,ipv6 disabled,ipv6 disabled,ipv6 disabled,ipv6 disabled,ipv6 disabled
+60,ok.ru,ipv6 disabled,ipv6 disabled,ipv6 disabled,ipv6 disabled,ipv6 disabled
+61,github.com,ipv6 disabled,ipv6 disabled,ipv6 disabled,ipv6 disabled,ipv6 disabled
+62,blogger.com,2a00:1450:4009:80b::2009,6.657,13.888,20.647,4.408
+63,google.co.kr,2a00:1450:4009:809::2003,4.661,10.771,17.835,3.895
+64,amazon.in,ipv6 disabled,ipv6 disabled,ipv6 disabled,ipv6 disabled,ipv6 disabled
+65,office.com,timeout,timeout,timeout,timeout,timeout
+66,cnzz.com,ipv6 disabled,ipv6 disabled,ipv6 disabled,ipv6 disabled,ipv6 disabled
+67,whatsapp.com,ipv6 disabled,ipv6 disabled,ipv6 disabled,ipv6 disabled,ipv6 disabled
+68,google.co.id,2a00:1450:4009:809::2003,5.593,11.697,19.311,4.151
+69,google.com.tr,2a00:1450:4009:809::2003,5.546,11.574,21.58,5.272
+70,fc2.com,ipv6 disabled,ipv6 disabled,ipv6 disabled,ipv6 disabled,ipv6 disabled
+71,google.com.au,2a00:1450:4009:809::2003,5.566,12.733,19.16,4.54
+72,dropbox.com,ipv6 disabled,ipv6 disabled,ipv6 disabled,ipv6 disabled,ipv6 disabled
+73,youku.com,ipv6 disabled,ipv6 disabled,ipv6 disabled,ipv6 disabled,ipv6 disabled
+74,google.com.tw,2a00:1450:4009:809::2003,5.225,11.7,19.692,4.785
+75,adobe.com,ipv6 disabled,ipv6 disabled,ipv6 disabled,ipv6 disabled,ipv6 disabled
+76,xinhuanet.com,ipv6 disabled,ipv6 disabled,ipv6 disabled,ipv6 disabled,ipv6 disabled
+77,microsoftonline.com,ipv6 disabled,ipv6 disabled,ipv6 disabled,ipv6 disabled,ipv6 disabled
+78,googleusercontent.com,ipv6 disabled,ipv6 disabled,ipv6 disabled,ipv6 disabled,ipv6 disabled
+79,xhamster.com,2a02:b49:4:8::1 ,10.564,17.816,28.386,6.128
+80,google.pl,2a00:1450:4009:80b::2003,7.326,14.263,22.851,4.95
+81,tianya.cn,ipv6 disabled,ipv6 disabled,ipv6 disabled,ipv6 disabled,ipv6 disabled
+82,cnn.com,ipv6 disabled,ipv6 disabled,ipv6 disabled,ipv6 disabled,ipv6 disabled
+83,xvideos.com,ipv6 disabled,ipv6 disabled,ipv6 disabled,ipv6 disabled,ipv6 disabled
+84,twitch.tv,ipv6 disabled,ipv6 disabled,ipv6 disabled,ipv6 disabled,ipv6 disabled
+85,amazon.de,ipv6 disabled,ipv6 disabled,ipv6 disabled,ipv6 disabled,ipv6 disabled
+86,pixnet.net,ipv6 disabled,ipv6 disabled,ipv6 disabled,ipv6 disabled,ipv6 disabled
+87,wikia.com,ipv6 disabled,ipv6 disabled,ipv6 disabled,ipv6 disabled,ipv6 disabled
+88,ccna.cc00764-s10-01.ccgslb.com,ipv6 disabled,ipv6 disabled,ipv6 disabled,ipv6 disabled,ipv6 disabled
+89,adf.ly,2400:cb00:2048:1::6814:104,5.103,12.149,28.214,7.073
+90,alibaba.com,ipv6 disabled,ipv6 disabled,ipv6 disabled,ipv6 disabled,ipv6 disabled
+91,coccoc.com,ipv6 disabled,ipv6 disabled,ipv6 disabled,ipv6 disabled,ipv6 disabled
+92,craigslist.org,ipv6 disabled,ipv6 disabled,ipv6 disabled,ipv6 disabled,ipv6 disabled
+93,google.com.eg,2a00:1450:4009:80b::2003,6.497,13.513,21.589,4.808
+94,quora.com,ipv6 disabled,ipv6 disabled,ipv6 disabled,ipv6 disabled,ipv6 disabled
+95,diply.com,2a02:26f0:c2:297::d80,9.182,14.548,23.665,3.954
+96,google.com.ar,2a00:1450:4009:809::2003,4.669,12.475,23.536,6.049
+97,so.com,ipv6 disabled,ipv6 disabled,ipv6 disabled,ipv6 disabled,ipv6 disabled
+98,bbc.com,ipv6 disabled,ipv6 disabled,ipv6 disabled,ipv6 disabled,ipv6 disabled
+99,google.com.sa,2a00:1450:4009:809::2003,5.186,10.555,16.035,3.246
+100,www.360.com,ipv6 disabled,ipv6 disabled,ipv6 disabled,ipv6 disabled,ipv6 disabled
